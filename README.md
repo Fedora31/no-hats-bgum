@@ -19,7 +19,7 @@ Rarely, some pyro masks still appear in the main mod. This is because the mod is
 
 This file removes unusual particles but doesn't work on Valve servers (because of their sv_pure 1 list). I'm not the the person maintaining this mod thus I will not update it if some unusuals are still appearing.
 
-###no\_christmas\_lights.vpk
+### no\_christmas\_lights.vpk
 
 Removes christmas lights from festivized weapons. Not to confuse with the limited **festive** weapons, not affected with this mod. Their lights aren't removed because they are baked in the weapon models, which would require to replace it, meaning it wouldn't work on Valve servers.
 
