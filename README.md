@@ -1,4 +1,4 @@
-#No-Hats-Mod bgum
+# No-Hats-Mod bgum
 
 This is a pack of mods whose purpose is to remove some visual aspects from Team Fortress 2 (cosmetics, skins, unusuals and some christmas lights).
 
