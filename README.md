@@ -13,7 +13,7 @@ This is the main mod of the pack, it prevents the game from loading cosmetics. I
 
 ### no\_bugged\_miscs.vpk
 
-Rarely, some pyro masks still appear in the main mod. This is because the mod is unable to replace them with the default pyro head and are simply not showing up, due to a bug. For visibility reasons (snipers) I let them appear by default but you can use this mod if you want to remove them completely (even with it installed they will sometimes still appear due to the same bug).
+Rarely, some pyro masks still appear in the main mod. This is because the mod is unable to replace them with the default pyro head so they're simply not showing up, due to a bug. For visibility reasons (snipers) I let them appear by default but you can use this mod if you want to remove them completely (even with it installed they will sometimes still appear due to the same bug).
 
 ### no\_unusuals.vpk
 
