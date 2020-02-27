@@ -11,7 +11,7 @@ These versions don't have release numbers at the end, I'll simply replace them w
 
 This is the main mod of the pack, it prevents the game from loading cosmetics. It also makes the default headgear reappear, should it be removed by the cosmetic the player is wearing. (E.g. no more soldiers jumping around without helmet, safety first amarite?)
 
-### no\_bugged\_miscs.vpk
+### no\_bugged\_misc.vpk
 
 Rarely, some pyro masks still appear in the main mod. This is because the mod is unable to replace them with the default pyro head so they're simply not showing up, due to a bug. For visibility reasons (snipers) I let them appear by default but you can use this mod if you want to remove them completely (even with it installed they will sometimes still appear due to the same bug).
 
@@ -41,7 +41,7 @@ If you don't know where your game is installed, you can also go on the game's pa
 
 # Bug report
 
-If you ever come across a cosmetic not being replaced (or, more likely, a player not having the default headgear appearing), you can send me a friend request on Steam at https://steamcommunity.com/id/Fedora31 and I will accept it **when I have time.**
+If you ever come across a cosmetic not being replaced (or, more likely, a player not having the default headgear appearing), you can send me a friend request on Steam at https://steamcommunity.com/id/Fedora31 and I'll accept it **when I have time.**
 
 # Some links
 
