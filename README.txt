@@ -1,8 +1,13 @@
 This is a repository for the mod originally hosted on Gamebanana.
-I'll try to update it alongside the other version.
 
-This version doesn't have numbers at the end, I'll simply replace it whenever the mod receive an update, so the vpk file's name won't change. I think this means the mod should update automatically if people added it to their repo? I dunno, too new to understand.
+These versions don't have release numbers at the end, I'll simply replace them whenever they receive an update so the vpk files names won't change.
 
 
-To install it, place it into:
-steamapps\common\Team Fortress 2\tf\custom
+On Windows, place any .vpk file into:
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\custom
+
+On Linux, place any .vpk file into:
+~/.local/share/Steam/steamapps/common/Team Fortress 2/tf/custom
+
+If you don't know where your game is installed, you can also go on the game's page in your library.
+click the settings icon > Manage > Browse local files
