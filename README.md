@@ -15,6 +15,10 @@ This is the main mod of the pack, it prevents the game from loading cosmetics. I
 
 Rarely, some pyro masks still appear in the main mod. This is because the mod is unable to replace them with the default pyro head so they're simply not showing up, due to a bug. For visibility reasons (snipers) I let them appear by default but you can use this mod if you want to remove them completely (even with it installed they will sometimes still appear due to the same bug).
 
+### no\_hats\_creatorstf.vpk
+
+This mod is for people playing in the creators.tf servers. It removes the custom cosmetics the servers add. I can't guarantee that this mod will stay up to date since I don't know how often new cosmetics will be released.
+
 ### no\_unusuals.vpk
 
 This file removes unusual particles but doesn't work on Valve servers (because of their sv_pure 1 list). I'm not the the person maintaining this mod thus I will not update it if some unusuals are still appearing.
