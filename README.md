@@ -37,7 +37,7 @@ On Windows, place any .vpk file into: C:\Program Files (x86)\Steam\steamapps\com
 
 On Linux, place any .vpk file into: ~/.local/share/Steam/steamapps/common/Team Fortress 2/tf/custom
 
-If you don't know where your game is installed, you can also go on the game's page in your library. click the settings icon > Manage > Browse local files
+If you don't know where your game is installed (maybe it's not in the default Library), you can always go on the game's page in your library. click the settings icon > Manage > Browse local files
 
 # Bug report
 
