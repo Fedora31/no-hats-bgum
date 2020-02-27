@@ -17,7 +17,7 @@ Rarely, some pyro masks still appear in the main mod. This is because the mod is
 
 ### no\_hats\_creatorstf.vpk
 
-This mod is for people playing in the creators.tf servers. It removes the custom cosmetics the servers add. I can't guarantee that this mod will stay up to date since I don't know how often new cosmetics will be released.
+This mod is for people playing in the creators.tf servers. It removes the custom cosmetics the servers add. I can't guarantee that this mod will stay up to date since I don't know how often new cosmetics will be released. This mod is intended to be installed with the main mod.
 
 ### no\_unusuals.vpk
 
