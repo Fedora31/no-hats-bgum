@@ -4,7 +4,7 @@ This is a pack of mods whose purpose is to remove some visual aspects from Team 
 
 This is a repository for the pack originally hosted on Gamebanana.
 
-These versions don't have release numbers at the end, I'll simply replace them whenever they receive an update so the vpk files names won't change. This should mean you could add them to your personal tf2 repo to receive any update as soon as they're out.
+These versions don't have release numbers at the end, I'll simply replace them whenever they receive an update so the .vpk files names won't change. This should mean you could add them to your personal tf2 repo to receive any update as soon as they're out.
 
 
 ### no\_hats\_bgum.vpk
