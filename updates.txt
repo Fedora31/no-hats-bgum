@@ -1,0 +1,89 @@
+27.02.20  Added a new mod, called no_hats_creatorstf.vpk. This mod removes custom cosmetics that are present on the creators.tf servers. The pack on Gamebanana now mirrors the repository hosted on Github.
+
+17.12.19  Updated "no_hats_bgum_2.0.0" to remove hats added in the winter 2019 cosmetic case. The Professor's Peculiarity is now correctly replaced. Thanks for reporting it!
+
+29.11.19  Added support for the First American, Full Metal Drill Hat, Hardium Helm, Hellmunter's Headpiece, Hidden Dragon, Pestering Jester, Skullcap, Tin Pot, Zipperface, Conagher's Combover, Last Straw, Sheriff's Stetson, Texas Tin-Gallon, Archer's Sterling, Bolted Bushman, Bushman's Boonie, Hallowed Headcase, Stovepipe Sniper Shako, Sydney Straw Boat, Backwards Ballcap, Bacteria Blocker, Bonk Boy, Hanger-on Hood, Sidekick's Side Slick, Dynamite Abs Engi's Cute Suit and the Dark Falkirk Helm to "no_hats_bgum_1.2.0". Thanks for reporting them! (record of the longest update note)
+
+22.11.19  Added support for the Class Crown, Duck Billed Hatypus, Dueler, Gifting Man from Gifting Land, Grandmaster, Hardy Laurel, Nasty Norsemann, Philateler, Snowmann, Towering Pillar Of Summer Shade, Firefly, Nabler, Russian Rocketeer, Scrap Pack, A Whiff of the Old Brimstone, Backbreaker's Guards, Battery Bandolier, Captain's Cocktails, Ornaments Armament, Patriot Pouches, Professor's Pineapple and Six Pack Abs to "no_hats_bgum_1.1.0". Thanks for reporting them!
+
+15.11.19  Added support for the Dark Filkirk Helm and the Wanderer's Wear to "no_hats_bgum_1.0.1".
+
+12.11.19  Added support for more unusuals to "no_unusuals_v2".
+
+10.11.19  "no_hats_bgum_v26" is now called "no_hats_bgum_1.0.0". There's now a proper numbering system, instead of just adding +1 every update. The 3rd style of the Speedy scoundrel is now correctly replaced in "no_hats_bgum_1.0.0" Thanks for reporting it!
+
+10.11.19  Added a new mod called "no_unusuals_v1". A contribution from Zach!
+
+09.11.19  The Smokey Sombrero is now correctly replaced in "no_hats_bgum_v25". Thanks for reporting it!
+
+06.11.19  The Big Daddy is now correctly replaced in "no_hats_bgum_v24". Thanks for reporting it!
+
+05.11.19  The Larval Lid and the Cold Killer are now correctly replaced in "no_hats_bgum_v23". Thanks for reporting them!
+
+04.11.19  The Battle Bird is now correctly replaced in "no_hats_bgum_v22". Thanks for reporting it!
+
+03.11.19  Bad news: the 1st style of the Nose Candy one isn't replaced correctly for some reason. Made the 1st version appear in-game, you can choose to make it invisible with no_bugged_misc_v2. Thanks for reporting it!
+
+25.10.19  fixing a bug causing the Magical Mercenary to not work with the Engineer, the Sniper and the Soldier.
+
+11.10.19  "no_hats_bgum_v19" now removes cosmetics added in the Scream Fortress 2019 update. Dropped support for "no_hats_orig" (you can download this mod if you want an updated orig equivalent: https://github.com/JarateKing/CleanTF2plus).
+
+26.09.19  "The Last Breath" and the "Apparition's Aspect" now appear in "no_hats_bgum_v18" (they are bugged cosmetics, basically it's either they appear or nothing appear at all, wich can make life difficult for snipers). Added the option to hide them with "no_bugged_misc_v1".
+
+24.09.19  "no_hats_bgum_v17" and "no_hats_orig_v10" now remove medals added in the 19.09.23 update.
+
+20.09.19  Added support for a few more hats to "no_hats_bgum_v16".
+
+18.09.19  Added support for the Plumber's Cap and a few more hats to "no_hats_bgum_v15". Thanks for reporting it!
+
+30.08.19  Added support for a few more hats to "no_hats_bgum_v14".
+
+20.08.19  Added support for a few more hats to "no_hats_bgum_v13".
+
+16.08.19  Added support for a few more hats to "no_hats_bgum_v12". Corrected a mistake in the file path of the Dread Hiding Hood and the Criminal Cloak
+
+13.08.19  Added support for the Crosslinker's Coil to "no_hats_bgum_v11". Thanks for reporting it!
+
+12.08.19  "no_misc_v3" has been splitted in two mods, "no_skins_v2" and "no_christmas_lights_v1". One removes most of the weapon skins, the other christmas lights (festivized weapons only).
+
+12.08.19  Added support to "no_hats_bgum_v10" for for a few more hats including the Arkham Cowl, Bloodhound, Hat with No Name, Condor Cap, Brim-full of Bullets, Liquidator's Lid, Swagman's Swatter, Danger, Barnstormer, Bonedolier and Fear Monger. Thanks for reporting them!
+
+07.08.19  Added support for a few more hats to "no_hats_bgum_v9".
+
+03.08.19  Changed the name of "no_skins_mod_v2" to "no_misc_v3". This mod now removes christmas lights from festivized weapons only.
+
+03.08.19  Added support for a few more hats to "no_hats_bgum_v8".
+
+30.07.19  Added support to "no_hats_bgum_v7" for the following cosmetics: Your worst nightmare, Merc's Mohawk, Dead of Night, Himalayan Hair shirt. Thanks for reporting them!
+
+09.07.19  Added support for a few more hats to "no_hats_bgum_v6".
+
+26.07.19  "no_hats_bgum_v5" and "no_hats_orig_v9" now remove hats added in the 19.07.25 update.
+
+22.07.19  Added support for a few more hats to "no_hats_bgum_v4".
+
+20.07.19  Updated "no_skins_mod_v2". Added support for a few more hats to "no_hats_bgum_v3".
+
+18.07.19  Added a new mod: "no_skins_mod". It doesn't work on Valve servers.
+
+16.07.19  Changed the name of the mods. ("no_hats_mod_2019_07_15" is now "no_hats_orig_v8". "mechbgum_nhm_v2" is now "no_hats_bgum_v2".) Updated "no_hats_bgum_v2".
+
+15.07.19  mechbgum_nhm_v2: Added support for a few more hats.
+
+12.07.19  Added a new version of the mod, created by mechbgum.
+
+15.05.19  The mod now removes medals added in the 19.05.14 update.
+
+04.05.19  The mod now removes medals added in the 19.04.30 update.
+
+18.04.19  The mod now removes medals added in the 19.04.17 update.
+
+07.04.19  Corrected a spelling mistake in the files of the Millennial Mercenary.
+
+31.03.19  Added files for the Warhood.
+
+29.03.19  The mod now removes medals added in the 19.03.28 update.
+
+28.03.19  The mod now removes medals added in the 19.03.26 update.
+
+14.03.19  The mod removes cosmetics added in the Smissmas 2018 update and medals added prior to March of 2019.
