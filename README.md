@@ -17,7 +17,7 @@ Rarely, some pyro masks still appear in the main mod. This is because the mod is
 
 ### no\_hats\_creatorstf.vpk
 
-This mod is for people playing in the creators.tf servers. It removes the custom cosmetics the servers add. I can't guarantee that this mod will stay up to date since I don't know how often new cosmetics will be released.
+This mod is for people playing in the creators.tf servers. It removes the custom cosmetics the servers add. I can't guarantee that this mod will stay up to date since I don't know how often new cosmetics will be released. This mod is intended to be installed with the main mod.
 
 ### no\_unusuals.vpk
 
@@ -37,11 +37,11 @@ On Windows, place any .vpk file into: C:\Program Files (x86)\Steam\steamapps\com
 
 On Linux, place any .vpk file into: ~/.local/share/Steam/steamapps/common/Team Fortress 2/tf/custom
 
-If you don't know where your game is installed, you can also go on the game's page in your library. click the settings icon > Manage > Browse local files
+If you don't know where your game is installed (maybe it's not in the default Library), you can always go on the game's page in your library. click the settings icon > Manage > Browse local files
 
 # Bug report
 
-If you ever come across a cosmetic not being replaced (or, more likely, a player not having the default headgear appearing), you can send me a friend request on Steam at https://steamcommunity.com/id/Fedora31 and I'll accept it **when I have time.**
+If you ever come across a cosmetic not being replaced (or, more likely, a player not having the default headgear appearing), you can send me a friend request on Steam at https://steamcommunity.com/id/Fedora31 and I'll accept it **when I have time.** You can also post a new issue on this repo if you have a Github account.
 
 # Some links
 
