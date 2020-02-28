@@ -41,7 +41,7 @@ If you don't know where your game is installed (maybe it's not in the default Li
 
 # Bug report
 
-If you ever come across a cosmetic not being replaced (or, more likely, a player not having the default headgear appearing), you can send me a friend request on Steam at https://steamcommunity.com/id/Fedora31 and I'll accept it **when I have time.**
+If you ever come across a cosmetic not being replaced (or, more likely, a player not having the default headgear appearing), you can send me a friend request on Steam at https://steamcommunity.com/id/Fedora31 and I'll accept it **when I have time.** You can also post a new issue on this repo if you have a Github account.
 
 # Some links
 
