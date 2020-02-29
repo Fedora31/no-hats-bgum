@@ -27,7 +27,7 @@ Removes christmas lights from festivized weapons. Not to confuse with the limite
 
 ### no\_skins.vpk
 
-This file removes the majority of the weapon skins, with some exceptions. This mod doesn't work on Valve servers.
+This file removes the majority of the weapon skins, with some exceptions. This mod doesn't work on Valve servers and you need to move all of your skinned items at the end of your inventory, otherwise your weapons will load indefinitely.
 
 # Installation
 
