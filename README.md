@@ -43,7 +43,7 @@ If you ever come across a cosmetic not being replaced (or, more likely, a player
 
 # Some links
 
-Here are 2 Youtube videos showing you how you can modify the mod to let some cosmetics appear.
+Here are 2 Youtube videos "trying" to show you how you can modify the mod to let some cosmetics appear.
 
 Windows: https://www.youtube.com/watch?v=v-yTh6ANuRw
 
