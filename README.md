@@ -31,9 +31,11 @@ These versions don't have release numbers at the end, I'll simply replace them w
 
 # Installation
 
-- On Windows, place any .vpk file into: `C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\custom`
+- On Windows, place any .vpk file into: 
+`C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\custom`
 
-- On Linux, place any .vpk file into: `~/.local/share/Steam/steamapps/common/Team Fortress 2/tf/custom`
+- On Linux, place any .vpk file into: 
+`~/.local/share/Steam/steamapps/common/Team Fortress 2/tf/custom`
 
 If you don't know where your game is installed (maybe it's not in the default Library), you can always go on the game's page in your Steam library. click the settings `icon > Manage > Browse local files`
 
