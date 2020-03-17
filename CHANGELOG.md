@@ -215,8 +215,8 @@ One removes most of the weapon skins, the other christmas lights (festivized wea
 - "no_hats_mod_2019_07_15" is now "no_hats_orig_v8".
 - "mechbgum_nhm_v2" is now "no_hats_bgum_v2".
 
-### Update 
-- Updated "no_hats_bgum_v2".
+### Updated 
+- "no_hats_bgum_v2".
 
 
 ## [0.1.0] - 2019-07-15
