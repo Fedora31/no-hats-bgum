@@ -12,6 +12,8 @@
 
 - "no_hats_creatorstf.vpk" is a mod I made.
 
+- Thanks to h9lk for overhauling the markdown files.
+
 
 
 [Jeebsau's mod](https://www.teamfortress.tv/35222/no-hats-mod)
