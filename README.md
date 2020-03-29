@@ -47,6 +47,6 @@ If you don't know where your game is installed (maybe it's not in the default Li
 
 #### Here are 2 Youtube videos "trying" to show you how you can modify the mod to let some cosmetics appear.
 
-* [Windows](https://www.youtube.com/watch?v=v-yTh6ANuRw)
+* [Windows](https://vlare.tv/v/GCanAws7)
 
-* [Linux](https://www.youtube.com/watch?v=vR1LQUWjboo)
+* [Linux](https://vlare.tv/v/yofY6jU1)
