@@ -41,11 +41,11 @@ If you don't know where your game is installed (maybe it's not in the default Li
 
 # Bug report
 
-- If you ever come across a cosmetic not being replaced (or, more likely, a player not having the default headgear appearing), you can post a message on this [steam group](https://steamcommunity.com/groups/nohatsmod) or you can send me a friend request on [Steam](https://steamcommunity.com/id/Fedora31) and I'll accept it **when I have time.** You can also post a new issue on this repo if you have a Github account.
+- If you ever come across a cosmetic not being replaced (or, more likely, a player not having the default headgear appearing), you can post a message on this [steam group](https://steamcommunity.com/groups/nohatsmod) and I'll respond to it **when I have time.** You can also post a new issue on this repo if you have a Github account.
 
 # Some links
 
-#### Here are 2 Youtube videos "trying" to show you how you can modify the mod to let some cosmetics appear.
+#### Here are 2 videos "trying" to show you how you can modify the mod to let some cosmetics appear.
 
 * [Windows](https://vlare.tv/v/GCanAws7)
 
