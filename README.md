@@ -19,7 +19,7 @@ These versions don't have release numbers at the end, I'll simply replace them w
 
 ### no\_unusuals.vpk
 
-- This file removes unusual particles but doesn't work on Valve servers (because of their sv_pure 1 list). I'm not the the person maintaining this mod thus I will not update it if some unusuals are still appearing.
+- This file removes unusual particles but doesn't work on Valve servers (because of their sv_pure 1 list). I'm not the person maintaining this mod thus I will not update it if some unusuals are still appearing.
 
 ### no\_christmas\_lights.vpk
 
@@ -37,11 +37,11 @@ These versions don't have release numbers at the end, I'll simply replace them w
 - On Linux, place any .vpk file into: 
 `~/.local/share/Steam/steamapps/common/Team Fortress 2/tf/custom`
 
-If you don't know where your game is installed (maybe it's not in the default Library), you can always go on the game's page in your Steam library. click the settings `icon > Manage > Browse local files`
+If you don't know where your game is installed (maybe it's not in the default Library), you can always go on the game's page in your Steam library. `click the settings icon > Manage > Browse local files`
 
 # Bug report
 
-- If you ever come across a cosmetic not being replaced (or, more likely, a player not having the default headgear appearing), you can post a message on this [steam group](https://steamcommunity.com/groups/nohatsmod) and I'll respond to it **when I have time.** You can also post a new issue on this repo if you have a Github account.
+- If you ever come across a cosmetic not being replaced (or, more likely, a player not having the default headgear appearing), you can post a message on this [steam group](https://steamcommunity.com/groups/nohatsmod) or you can send me an e-mail at `comments8451322@hotmail.com`. You can also post a new issue on this repo if you have a Github account.
 
 # Some links
 
