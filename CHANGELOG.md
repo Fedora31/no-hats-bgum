@@ -2,6 +2,11 @@
 All notable changes to this project will be documented in this file.
 
 
+## [0.4.7] - 2020-04-11
+### Updated
+-no_hats_creatorstf.vpk to include community cosmetics added with The Hazardous Environments Event.
+
+
 ## [0.4.6] - 2020-03-16
 ### Updated 
 - no_unusuals.vpk to include missing unusual taunts and unusuals added in the winter update.
