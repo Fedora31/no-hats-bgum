@@ -4,7 +4,7 @@ All notable changes to this project will be documented in this file.
 
 ## [0.4.7] - 2020-04-11
 ### Updated
--no_hats_creatorstf.vpk to include community cosmetics added with The Hazardous Environments Event.
+- no_hats_creatorstf.vpk to include community cosmetics added with The Hazardous Environments Event.
 
 
 ## [0.4.6] - 2020-03-16
