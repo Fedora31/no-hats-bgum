@@ -41,7 +41,7 @@ If you don't know where your game is installed (maybe it's not in the default Li
 
 # Bug report
 
-- If you ever come across a cosmetic not being replaced (or, more likely, a player not having the default headgear appearing), you can post a message on this [steam group](https://steamcommunity.com/groups/nohatsmod) or you can send me an [e-mail](//mailto:comments8451322@hotmail.com). You can also post a new issue on this repo if you have a Github account.
+- If you ever come across a cosmetic not being replaced (or, more likely, a player not having the default headgear appearing), you can post a message on this [steam group](https://steamcommunity.com/groups/nohatsmod) or you can send me an [e-mail](mailto:comments8451322@hotmail.com). You can also post a new issue on this repo if you have a Github account.
 
 # Some links
 
