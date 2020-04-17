@@ -7,9 +7,9 @@ These are the folders containing the source files of the mod. The big majority o
 If you found a bug (e.g. missing source files for a hat) and want to help, you can fork this and create a pull request.
 
 ## compiling
-You can compile the mod yourself using [crowbar](https://steamcommunity.com/groups/CrowbarTool). Select the "compiled" folder as the Work Folder, the "decompiled" folder as the QC input and go make yourself a sandwich, it's gonna take a while.
+You can compile the mod yourself using [crowbar](https://steamcommunity.com/groups/CrowbarTool). Select a folder of your choice as the Work Folder, the "decompiled" folder as the QC input and go make yourself a sandwich, it's gonna take a while.
 
 As of writing there is no way to compile the mod on Linux because Valve didn't feel like porting the sudiomdl executable. (you can use a VM it's what I do)
 
 ## after compiling
-You can now create a new folder and drop the freshly created "models" folder in it. Same with the other one located in "0kb_files". give your folder a cool name, open it with the vpk.exe located at `steamapps\common\Team Fortress 2\bin` and voilà!
+You can now merge the models folder in "0kb_files" with the one in your folder. Give your folder a cool name, open it with the vpk.exe located at `steamapps\common\Team Fortress 2\bin` and voilà!
