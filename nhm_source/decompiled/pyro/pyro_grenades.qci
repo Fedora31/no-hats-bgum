@@ -1,0 +1,6 @@
+$upaxis Y
+
+$bodygroup "grenades"
+{
+	studio "pyro_grenades_bodygroup"
+}

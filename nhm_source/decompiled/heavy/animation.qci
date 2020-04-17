@@ -1,0 +1,21 @@
+$upaxis Y
+
+$surfaceprop "flesh"
+
+$contents "solid"
+
+$cdmaterials "models\player\hvyweapon\"
+
+$texturegroup "skinfamilies"
+{
+	{ "hvyweapons_red" }
+	{ "hvyweapons_blue" }
+}
+
+$sequence "idle" {
+	"heavy_morphs_low"
+	fadein 0.2
+	fadeout 0.2
+	fps 30
+	loop
+}

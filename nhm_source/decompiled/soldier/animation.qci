@@ -1,0 +1,22 @@
+$upaxis Y
+
+$surfaceprop "flesh"
+
+$contents "solid"
+
+$cdmaterials "models\player\soldier\"
+
+$texturegroup "skinfamilies"
+{
+	{ "soldier_red" }
+	{ "soldier_blue" }
+}
+
+$sequence "idle" {
+	"soldier_morphs_low.smd"
+	fadein 0.2
+	fadeout 0.2
+	fps 30
+	loop
+}
+

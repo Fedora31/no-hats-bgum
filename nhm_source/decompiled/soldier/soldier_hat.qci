@@ -1,0 +1,15 @@
+$upaxis Y
+
+$bodygroup "hat"
+{
+	studio "soldier_hat_bodygroup"
+}
+
+$collisionmodel "soldier_hat_bodygroup.smd"
+{
+	$mass 5
+	$inertia 1
+	$damping 0
+	$rotdamping 0
+	$rootbone " "
+}

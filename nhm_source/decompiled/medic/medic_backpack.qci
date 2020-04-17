@@ -1,0 +1,6 @@
+$upaxis Y
+
+$bodygroup "medic_backpack"
+{
+	studio "medic_backpack_bodygroup"
+}
