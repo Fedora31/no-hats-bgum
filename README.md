@@ -11,7 +11,7 @@ These versions don't have release numbers at the end, I'll simply replace them w
 
 ### no\_bugged\_misc.vpk
 
-- Rarely, some pyro masks still appear in the main mod. This is because the mod is unable to replace them with the default pyro head so they're simply not showing up, due to a bug. For visibility reasons (snipers) I let them appear by default but you can use this mod if you want to remove them completely (even with it installed they will sometimes still appear due to the same bug).
+- Rarely, some pyro masks still appear in the main mod due to a bug. This is because the mod is unable to replace them with the default pyro head so they're simply not showing up. For visibility reasons (snipers) I let them appear by default but you can use this mod if you want to remove them completely (they will sometimes still appear due to the same bug). This mod is intended to be installed with the main mod.
 
 ### no\_hats\_creatorstf.vpk
 
@@ -19,11 +19,11 @@ These versions don't have release numbers at the end, I'll simply replace them w
 
 ### no\_unusuals.vpk
 
-- This file removes unusual particles but doesn't work on Valve servers (because of their sv_pure 1 list). I'm not the person maintaining this mod thus I will not update it if some unusuals are still appearing.
+- This file removes unusual particles but doesn't work on Valve servers (because of their sv_pure whitelist). I'm not the person maintaining this mod thus I will not update it if some unusuals are still appearing.
 
 ### no\_christmas\_lights.vpk
 
-- Removes christmas lights from festivized weapons. Not to confuse with the limited **festive** weapons, not affected with this mod. Their lights aren't removed because they are baked in the weapon models, which would require to replace it, meaning it wouldn't work on Valve servers.
+- Removes christmas lights from festivized weapons. Not to confuse with the limited **festive** weapons, not affected with this mod.
 
 ### no\_skins.vpk
 
@@ -41,11 +41,11 @@ If you don't know where your game is installed (maybe it's not in the default Li
 
 # Bug report
 
-- If you ever come across a cosmetic not being replaced (or, more likely, a player not having the default headgear appearing) you can send me an e-mail at `comments8451322@hotmail.com`. You can also post a new issue on this repo if you have a Github account.
+- If you ever come across a cosmetic not being replaced (or, more likely, a player not having the default headgear appearing) you can send me an e-mail at `comments8451322 AT hotmail D0T com`. PLEASE read [buglist.md] (https://github.com/Fedora31/no-hats-bgum/blob/master/buglist.md) and [q&a.md] (https://github.com/Fedora31/no-hats-bgum/blob/master/q%26a.md) if you want to contact me. (You can also post a new issue on this repo but you'll get in touch with me quicker by e-mail.)
 
 # Some links
 
-#### Here are 2 videos "trying" to show you how you can modify the mod to let some cosmetics appear.
+#### Here are 2 videos "trying" to show how you can modify the mod to let some cosmetics appear.
 
 * [Windows](https://streamable.com/uav0li)
 
