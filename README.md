@@ -41,7 +41,7 @@ If you don't know where your game is installed (maybe it's not in the default Li
 
 # Bug report
 
-- If you ever come across a cosmetic not being replaced (or, more likely, a player not having the default headgear appearing) you can send me an e-mail at `comments8451322 AT hotmail D0T com`. PLEASE read [buglist.md] (https://github.com/Fedora31/no-hats-bgum/blob/master/buglist.md) and [q&a.md] (https://github.com/Fedora31/no-hats-bgum/blob/master/q%26a.md) if you want to contact me. (You can also post a new issue on this repo but you'll get in touch with me quicker by e-mail.)
+- If you ever come across a cosmetic not being replaced (or, more likely, a player not having the default headgear appearing) you can send me an e-mail at `comments8451322 AT hotmail D0T com`. PLEASE read [buglist.md](https://github.com/Fedora31/no-hats-bgum/blob/master/buglist.md) and [q&a.md](https://github.com/Fedora31/no-hats-bgum/blob/master/q%26a.md) if you want to contact me. (You can also post a new issue on this repo but you'll get in touch with me quicker by e-mail.)
 
 # Some links
 
