@@ -4,7 +4,7 @@ No, sorry.
 ### Is this mod compatible with Y mod?
 Dunno. Maybe. If your mod has custom player models then it's no.
 ### I found a bug in the mod.
-If you want to inform me about it, an e-mail is the quickest way to reach me. I might not always respond though. Take a look at buglist.md to be sure the bug isn't already listed.
+If you want to inform me about it, an e-mail is the quickest way to reach me. I might not always respond though. Take a look at [buglist.md](https://github.com/Fedora31/no-hats-bgum/blob/master/buglist.md) to be sure the bug isn't already listed.
 ### Where are the comments on gamebanana?
 Send me an _e-mail_ if you want to get in touch with me.
 ### What can I contact you about?
