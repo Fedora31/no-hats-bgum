@@ -14,4 +14,4 @@ It was a ghost town so I retired it.
 
 Where did *you* go?
 
-(this is for people who were in my friendlist) I'm not using Steam anymore and my account is -again- queued for deletion. (I can still use steamCMD to update the mod).
+(this is for people who were in my friendlist) *I'm not using Steam anymore* and my account is -again- queued for deletion. (I can still use steamCMD to update the mod).
