@@ -4,11 +4,12 @@ This is a pack of mods whose purpose is to remove some visual aspects from Team 
 
 These versions don't have release numbers at the end, I'll simply replace them whenever they receive an update so the .vpk files names won't change. This should mean you could add them to your personal tf2 repo to receive any updates as soon as they're out.
 
-
+## Primary mod
 ### no\_hats\_bgum.vpk
 
 - This is the main mod of the pack, it prevents the game from loading cosmetics. It also makes the default headgear reappear, should it be removed by the cosmetic the player is wearing. (E.g. no more soldiers jumping around without helmet, safety first amarite?)
 
+## Secondary mods
 ### no\_bugged\_misc.vpk
 
 - Rarely, some pyro masks still appear in the main mod due to a bug. This is because the mod is unable to replace them with the default pyro head so they're simply not showing up. For visibility reasons (snipers) I let them appear by default but you can use this mod if you want to remove them completely (they will sometimes still appear due to the same bug). This mod is intended to be installed with the main mod.
