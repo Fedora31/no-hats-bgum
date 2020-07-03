@@ -51,3 +51,5 @@ If you don't know where your game is installed (maybe it's not in the default Li
 * [Windows](https://streamable.com/uav0li)
 
 * [Linux](https://streamable.com/vxchci)
+
+![](https://steamuserimages-a.akamaihd.net/ugc/1280661121796415944/4520EC310E9654656E34ED2AFF7EE41BBC1B6A5B/)
