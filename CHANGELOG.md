@@ -1,6 +1,13 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [0.4.8] - 2020-07-14
+### Updated
+- no_hats_creatorstf.vpk to remove The Carry-On Kitty added as a tribute to Kitty0706.
+
+### Fixed
+- a spelling mistake in the filename of the Scientist Head.
+
 
 ## [0.4.7] - 2020-04-11
 ### Updated
