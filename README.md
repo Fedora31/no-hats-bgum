@@ -12,7 +12,7 @@ These versions don't have release numbers at the end, I'll simply replace them w
 ## Secondary mods
 ### no\_bugged\_misc.vpk
 
-- Rarely, some pyro masks still appear in the main mod due to a bug. This is because the mod is unable to replace them with the default pyro head so they're simply not showing up. For visibility reasons (snipers) I let them appear by default but you can use this mod if you want to remove them completely (they will sometimes still appear due to the same bug). This mod is intended to be installed with the main mod.
+- Rarely, some pyro masks still appear in the main mod. This is due to a bug, the mod is unable to replace them with the default pyro head so they're simply not showing up. For visibility reasons (snipers) I let them appear by default but you can use this mod if you want to remove them completely (they will sometimes still appear due to the same bug). This mod is intended to be installed with the main mod.
 
 ### no\_hats\_creatorstf.vpk
 
@@ -24,7 +24,7 @@ These versions don't have release numbers at the end, I'll simply replace them w
 
 ### no\_christmas\_lights.vpk
 
-- Removes christmas lights from festivized weapons. Not to confuse with the limited **festive** weapons, not affected with this mod.
+- Removes christmas lights from festivized weapons. Not to confuse with the limited **festive** weapons, not affected by this mod.
 
 ### no\_skins.vpk
 
