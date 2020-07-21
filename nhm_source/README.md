@@ -12,4 +12,4 @@ You can compile the mod yourself using [crowbar](https://steamcommunity.com/grou
 As of writing there is no way to compile the mod on Linux because Valve didn't feel like porting the sudiomdl executable. (you can use a VM)
 
 ## after compiling
-You can now merge the models folder in "0kb_files" with the one in your folder. Give your folder a cool name, open it with the vpk.exe located at `steamapps\common\Team Fortress 2\bin` and voilà!
+You can now merge the `models` folder located in `0kb_files` with the one in the Work folder. Give your Work  folder a cool name, open it with the vpk.exe located at `steamapps\common\Team Fortress 2\bin` and voilà!
