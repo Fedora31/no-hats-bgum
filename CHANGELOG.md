@@ -1,6 +1,11 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [0.4.9] - 2020-07-24
+### Updated
+- no_hats_creatorstf.vpk to remove the cosmetics added with the Classful Event.
+
+
 ## [0.4.8] - 2020-07-14
 ### Updated
 - no_hats_creatorstf.vpk to remove The Carry-On Kitty added as a tribute to Kitty0706.
