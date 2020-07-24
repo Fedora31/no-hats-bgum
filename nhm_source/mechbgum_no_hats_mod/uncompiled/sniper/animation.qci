@@ -1,0 +1,31 @@
+$upaxis Y
+
+$surfaceprop "flesh"
+
+$contents "solid"
+
+$cdmaterials "models\player\sniper\"
+
+$texturegroup "skinfamilies"
+{
+	{ "sniper_red" }
+	{ "sniper_blue" }
+}
+
+$sequence "idle" {
+	"ragdoll.smd"
+	fadein 0.2
+	fadeout 0.2
+	fps 30
+	loop
+}
+
+
+$collisionmodel "sniper_hat_bodygroup.smd"
+{
+	$mass 5
+	$inertia 1
+	$damping 0
+	$rotdamping 0
+	$rootbone " "
+}

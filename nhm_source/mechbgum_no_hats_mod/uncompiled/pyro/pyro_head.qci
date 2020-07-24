@@ -1,0 +1,6 @@
+$upaxis Y
+
+$bodygroup "head"
+{
+	studio "pyro_head_bodygroup"
+}

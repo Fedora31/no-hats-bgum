@@ -1,0 +1,21 @@
+$upaxis Y
+
+$surfaceprop "flesh"
+
+$contents "solid"
+
+$cdmaterials "models\player\medic\"
+
+$texturegroup "skinfamilies"
+{
+	{ "medic_red" }
+	{ "medic_blue" }
+}
+
+$sequence "idle" {
+	"ragdoll.smd"
+	fadein 0.2
+	fadeout 0.2
+	fps 30
+	loop
+}

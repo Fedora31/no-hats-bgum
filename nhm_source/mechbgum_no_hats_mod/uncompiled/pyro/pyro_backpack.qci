@@ -1,0 +1,6 @@
+$upaxis Y
+
+$bodygroup "backpack"
+{
+	studio "pyro_backpack_bodygroup"
+}

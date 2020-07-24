@@ -1,0 +1,6 @@
+$upaxis Y
+
+$bodygroup "body"
+{
+	studio "scout_hat_bodygroup"
+}

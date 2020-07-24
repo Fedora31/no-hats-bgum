@@ -1,0 +1,6 @@
+$upaxis Y
+
+$bodygroup "hat"
+{
+	studio "sniper_hat_bodygroup"
+}

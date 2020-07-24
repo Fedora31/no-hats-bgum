@@ -1,0 +1,6 @@
+$upaxis Y
+
+$bodygroup "hands"
+{
+	studio "heavy_hands_bodygroup"
+}

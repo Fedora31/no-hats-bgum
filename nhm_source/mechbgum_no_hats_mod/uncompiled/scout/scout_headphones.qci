@@ -1,0 +1,6 @@
+$upaxis Y
+
+$bodygroup "headphones"
+{
+	studio "scout_headphones_bodygroup"
+}
