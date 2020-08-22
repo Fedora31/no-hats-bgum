@@ -32,6 +32,10 @@ These versions don't have release numbers at the end, I'll simply replace them w
 
 - This file removes the majority of the weapon skins, with some exceptions. This mod doesn't work on Valve servers and you need to move all of your skinned items at the end of your inventory, otherwise your weapons will load indefinitely.
 
+### no\_botkiller.vpk
+
+- Removes robot heads from weapons.
+
 # Installation
 
 - On Windows, place any .vpk file into: 
