@@ -4,7 +4,7 @@ This is a pack of mods whose purpose is to remove some visual aspects from Team 
 
 These versions don't have release numbers at the end, I'll simply replace them whenever they receive an update so the .vpk files names won't change. This should mean you could add them to your personal tf2 repo to receive any updates as soon as they're out.
 
-**If you modified the mod**, I added a new `updates` directory containing vpk files that only remove cosmetics from specific updates, starting with the one from summer 2020. Like that you won't need to scrap your modified mod to have the latest hats disappear. You could merge them together to avoid having too many files in your `custom` folder. If you figured out how to modify the mod, you should have no problem doing this. ;)
+**If you modified the mod**, I added a new `updates` directory containing vpk files that only remove cosmetics from specific updates, starting with the one from summer 2020. Like that you won't need to scrap your modified mod to have the latest hats disappear. You could merge them together to avoid having too many files in your `custom` folder. If you figured out how to modify the mod, you should have no problems doing this. ;)
 
 ## Primary mod
 ### no\_hats\_bgum.vpk
