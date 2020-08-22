@@ -5,6 +5,9 @@ All notable changes to this project will be documented in this file.
 ### Updated
 - no_hats_bgum to remove cosmetics added with the summer 2020 update.
 
+### Added
+- no_botkiller.vpk. It removes robot heads from weapons.
+
 ## [0.4.9] - 2020-07-24
 ### Updated
 - no_hats_creatorstf.vpk to remove the cosmetics added with the Classful Event.
