@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [0.5.0] - 2020-08-22
+### Updated
+- no_hats_bgum to remove cosmetics added with the summer 2020 update.
+
 ## [0.4.9] - 2020-07-24
 ### Updated
 - no_hats_creatorstf.vpk to remove the cosmetics added with the Classful Event.

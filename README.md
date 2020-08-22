@@ -4,6 +4,8 @@ This is a pack of mods whose purpose is to remove some visual aspects from Team 
 
 These versions don't have release numbers at the end, I'll simply replace them whenever they receive an update so the .vpk files names won't change. This should mean you could add them to your personal tf2 repo to receive any updates as soon as they're out.
 
+**If you modified the mod**, I added a new directory containing vpk files that only remove cosmetics from specific updates, starting with the one from summer 2020. Like that you won't need to scrap your modified mod to have the latest hats disappear. You could merge them together to avoid having too many files in your ´custom´ folder. If you figured out how to modify the mod, you should have no problem doing this. ;)
+
 ## Primary mod
 ### no\_hats\_bgum.vpk
 
@@ -38,11 +40,11 @@ These versions don't have release numbers at the end, I'll simply replace them w
 - On Linux, place any .vpk file into: 
 `~/.local/share/Steam/steamapps/common/Team Fortress 2/tf/custom`
 
-If you don't know where your game is installed (maybe it's not in the default Library), you can always go on the game's page in your Steam library. `click the settings icon > Manage > Browse local files`
+If your game isn't in the default location, you can always go on the game's page in your Steam library. `click the settings icon > Manage > Browse local files`
 
 # Bug report
 
-- If you ever come across a bug (e.g. a cosmetic not being replaced or a player not having the default headgear appearing) you can send me an e-mail at `comments3294071264 AT net-c D0T com`. PLEASE read [buglist.md](https://github.com/Fedora31/no-hats-bgum/blob/master/buglist.md) and [q&a.md](https://github.com/Fedora31/no-hats-bgum/blob/master/q%26a.md) if you want to contact me. (You can also post a new issue on this repo but you'll get in touch with me quicker by e-mail.)
+- If you ever come across a bug (e.g. a cosmetic not being replaced or a player not having the default headgear appearing) you can send me an e-mail at `comments3294071264 AT net-c DoT com`. PLEASE read [buglist.md](https://github.com/Fedora31/no-hats-bgum/blob/master/buglist.md) and [q&a.md](https://github.com/Fedora31/no-hats-bgum/blob/master/q%26a.md) if you want to contact me. (You can also post a new issue on this repo but I prefer e-mails.)
 
 # Some links
 
