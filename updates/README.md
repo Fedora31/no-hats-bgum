@@ -4,4 +4,4 @@ You can merge your custom version with the file(s) in this directory without the
 
 ### description
 
-- sum20		summer 2020 update
+- sum20 = summer 2020 update
