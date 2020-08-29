@@ -1,12 +1,18 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [0.5.1] - 2020-08-29
+### Updated
+- no_hats_bgum to remove the first style of the Hypno-eyes.
+
+
 ## [0.5.0] - 2020-08-22
 ### Updated
 - no_hats_bgum to remove cosmetics added with the summer 2020 update.
 
 ### Added
 - no_botkiller.vpk. It removes robot heads from weapons.
+
 
 ## [0.4.9] - 2020-07-24
 ### Updated
