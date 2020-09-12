@@ -17,8 +17,7 @@ These versions don't have release numbers at the end, I'll simply replace them w
 # Navigation
 
 * [Installation](#installation)
-  * [Modify mod](#some-links)
-   * [Changelog](./.github/CHANGELOG.md)
+  * [Changelog](./.github/CHANGELOG.md)
 * [Buglist](./.github/BUGLIST.md)
   * [Modify](#modify)
   * [Specific Updates](./updates)
