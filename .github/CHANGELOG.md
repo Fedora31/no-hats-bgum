@@ -106,7 +106,7 @@ There's now a proper numbering system, instead of just adding +1 every update.
 
 ## [0.3.4] - 2019-11-04
 ### Changed  
-The Battle Bird is now correctly replaced in "no_hats_bgum_v22". 
+- The Battle Bird is now correctly replaced in "no_hats_bgum_v22". 
 #### Thanks for reporting it!
 
 
@@ -124,7 +124,7 @@ The Battle Bird is now correctly replaced in "no_hats_bgum_v22".
 
 ## [0.3.1] - 2019-10-11  
 ### Added
--"no_hats_bgum_v19" now removes cosmetics added in the Scream Fortress 2019 update. 
+- "no_hats_bgum_v19" now removes cosmetics added in the Scream Fortress 2019 update. 
 - Dropped support for "no_hats_orig" (you can download this mod if you want an updated [orig equivalent](https://github.com/JarateKing/CleanTF2plus).
 
 
