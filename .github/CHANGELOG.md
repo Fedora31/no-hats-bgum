@@ -4,9 +4,9 @@ All notable changes to this project will be documented in this file.
 ## [0.5.2] - 2020-09-20
 ### Updated
 - no_hats_creatorstf to remove the community cosmetics added with the 2020-08-29 update.
-- the path of the Dust-bowler and the Carry-On Kitty.
 
 ### Fixed
+- the path of the Dust-bowler and the Carry-On Kitty.
 - the Hanger-On Hood not letting the default hat reappear.
 
 ## [0.5.1] - 2020-08-29
