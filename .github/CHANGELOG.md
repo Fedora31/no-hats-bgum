@@ -1,6 +1,14 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [0.5.2] - 2020-09-20
+### Updated
+- no_hats_creatorstf to remove the community cosmetics added with the 2020-08-29 update.
+- the path of the Dust-bowler and the Carry-On Kitty.
+
+### Fixed
+- the Hanger-On Hood not letting the default hat reappear.
+
 ## [0.5.1] - 2020-08-29
 ### Updated
 - no_hats_bgum to remove the first style of the Hypno-eyes.
@@ -16,12 +24,12 @@ All notable changes to this project will be documented in this file.
 
 ## [0.4.9] - 2020-07-24
 ### Updated
-- no_hats_creatorstf.vpk to remove the cosmetics added with the Classful Event.
+- no_hats_creatorstf to remove the cosmetics added with the Classful Event.
 
 
 ## [0.4.8] - 2020-07-14
 ### Updated
-- no_hats_creatorstf.vpk to remove The Carry-On Kitty added as a tribute to Kitty0706.
+- no_hats_creatorstf to remove The Carry-On Kitty added as a tribute to Kitty0706.
 
 ### Fixed
 - a spelling mistake in the filename of the Scientist Head.
@@ -29,12 +37,12 @@ All notable changes to this project will be documented in this file.
 
 ## [0.4.7] - 2020-04-11
 ### Updated
-- no_hats_creatorstf.vpk to include community cosmetics added with The Hazardous Environments Event.
+- no_hats_creatorstf to include community cosmetics added with The Hazardous Environments Event.
 
 
 ## [0.4.6] - 2020-03-16
 ### Updated 
-- no_unusuals.vpk to include missing unusual taunts and unusuals added in the winter update.
+- no_unusuals to include missing unusual taunts and unusuals added in the winter update.
 
 
 ## [0.4.5] - 2020-02-27  
