@@ -84,7 +84,7 @@ If your game isn't in the default location, you can always go on the game's page
 <p align="center"> 
   <img
         alt="No-Hats-mod"
-        src="https://isaydesu.xyz/images/nhm_commercial.png"
+        src=".github/images/nhm_commercial.png"
         width="850"
       />
 </p>
