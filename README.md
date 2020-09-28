@@ -73,6 +73,14 @@ If your game isn't in the default location, you can always go on the game's page
 
 * [Linux](https://streamable.com/vxchci)
 
+## Links to similar mods
+
+* [springrolls' No Hats Mod + Headfeet, 2020+ Edition](https://www.teamfortress.tv/56398/no-hats-mod-headsfeet-2020-edition). They provide the "original" updated version of the mod which removes every cosmetics, a Headsfeet variant (keeps the cosmetics that interfere with bodygroups) and another one named "Stock HeadsFeet" which also makes the default hats reappear!
+
+* [JarateKing's CleanTF2plus](https://github.com/JarateKing/CleanTF2plus). A set of scripts providing a version of No Hats Mod removing every cosmetics. This mod is generated automatically, so you don't have to wait on anyone to have an updated version.
+
+* [jeebsAU's No Hats Mod](https://github.com/jeebsAU/No-Hats-Mod). The mod from which the version provided here is based on. **This version isn't maintained anymore.**
+
 <p align="center"> 
   <img
         alt="No-Hats-mod"
