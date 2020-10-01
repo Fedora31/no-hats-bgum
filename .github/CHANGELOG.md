@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [0.5.3] - 2020-10-01
+### Fixed
+- the Avian Amante not disappearing.
+
 ## [0.5.2] - 2020-09-20
 ### Updated
 - no_hats_creatorstf to remove the community cosmetics added with the 2020-08-29 update.
