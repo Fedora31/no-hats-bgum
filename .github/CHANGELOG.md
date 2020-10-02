@@ -3,7 +3,7 @@ All notable changes to this project will be documented in this file.
 
 ## [0.5.4] - 2020-10-02
 ### Updated
-- no_hats_bgum to remove cosmetics added with the scream fortress XII update.
+- no_hats_bgum to remove cosmetics added with the Scream Fortress XII update.
 
 ## [0.5.3] - 2020-10-01
 ### Fixed
