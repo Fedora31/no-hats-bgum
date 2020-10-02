@@ -5,9 +5,14 @@ All notable changes to this project will be documented in this file.
 ### Updated
 - no_hats_bgum to remove cosmetics added with the Scream Fortress XII update.
 
+### Fixed
+- the Loaf Loafers not letting the default bodygroups reappear on the Scout and Demoman.
+#### Thanks for reporting it!
+
 ## [0.5.3] - 2020-10-01
 ### Fixed
 - the Avian Amante not disappearing.
+#### Thanks for reporting it!
 
 ## [0.5.2] - 2020-09-20
 ### Updated
