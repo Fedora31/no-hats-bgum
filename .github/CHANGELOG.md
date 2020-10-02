@@ -6,7 +6,7 @@ All notable changes to this project will be documented in this file.
 - no_hats_bgum to remove cosmetics added with the Scream Fortress XII update.
 
 ### Fixed
-- the Loaf Loafers not letting the default bodygroups reappear on the Scout and Demoman.
+- the Loaf Loafers not letting the default bodygroup reappear on the Scout and Demoman.
 #### Thanks for reporting it!
 
 ## [0.5.3] - 2020-10-01
