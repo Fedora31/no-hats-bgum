@@ -5,3 +5,4 @@ If you want to limit the number of files in your `custom` folder, you could merg
 ### description
 
 - sum20 = summer 2020 update
+- hwn2020 = halloween 2020 (scream fortress XII) update
