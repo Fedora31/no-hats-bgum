@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+### [0.5.6] -2020-10-03
+### Updated
+- no_unusuals to remove unusuals from the summer 2020 update and the Scream Fortress XII update.
+
 ## [0.5.5] - 2020-10-03
 ### Updated
 - no_hats_bgum to remove the second style of the Seared Sorcerer.
