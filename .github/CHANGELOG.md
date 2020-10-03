@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [0.5.5] - 2020-10-03
+### Updated
+- no_hats_bgum to remove the second style of the Seared Sorcerer.
+
 ## [0.5.4] - 2020-10-02
 ### Updated
 - no_hats_bgum to remove cosmetics added with the Scream Fortress XII update.
