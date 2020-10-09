@@ -61,7 +61,8 @@ If your game isn't in the default location, you can always go on the game's page
 
 ## Bug report
 
-* If you ever come across a bug (e.g. a cosmetic not being replaced or a player not having the default headgear appearing) you can send me an e-mail at `comments3294071264 AT net-c DoT com`. PLEASE read [Buglist](./.github/BUGLIST.md) and [Q&A](./.github/Q%26A.md) if you want to contact me. (You can also post a new issue on this repo but I prefer e-mails.)
+
+* If you ever come across a bug (e.g. a cosmetic still visible or a player not having the default headgear reappear) you can send me an e-mail at `comments3294071264 AT net-c DoT com` or contact me through [steam](https://steamcommunity.com/id/mranchois). PLEASE read [Buglist](./.github/BUGLIST.md) and [Q&A](./.github/Q%26A.md) if you want to contact me. (You can also post a new issue on this repo but know that I don't check it often.)
 
 ## Modify
 
