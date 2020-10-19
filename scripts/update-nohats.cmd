@@ -1,3 +1,5 @@
+<!-- : Batch file with embeded VBS (http://www.dostips.com/forum/viewtopic.php?p=33963#p33963)
+
 :: NO HATS MOD UPDATE SCRIPT
 :: for https://github.com/Fedora31/no-hats-bgum
 
@@ -72,22 +74,25 @@ exit /B 0
 
 :update
 :: Get last modified time.
-for /f "tokens=*" %%a in ('forfiles /M %~1 /C "cmd /c echo @fdate"') do set "LastModified=%%a"
-echo    downloaded: %LastModified:~0,10%
-set "LastModified=%LastModified:~0,4%%LastModified:~5,2%%LastModified:~8,2%"
+for /f "tokens=*" %%a in ('cscript //nologo update-nohats.cmd?.wsf //job:GetLastModifiedTime %~1') do set "LastModified=%%a"
+echo    downloaded: %LastModified%
 
 :: Get last commit time.
 for /f "tokens=*" %%a in ('curl -s "https://api.github.com/repos/Fedora31/no-hats-bgum/commits?path=%~1" ^| 	"%jq%" -r ".[0].commit.committer.date"') do set "LastCommit=%%a"
-echo    lastest version: %LastCommit:~0,10%
-set "LastCommit=%LastCommit:~0,4%%LastCommit:~5,2%%LastCommit:~8,2%"
+echo    lastest version: %LastCommit%
 
-if %LastCommit% GTR %LastModified% (
+cscript //nologo update-nohats.cmd?.wsf //job:CompareDates "%LastModified%" "%LastCommit%"
+IF %ERRORLEVEL% EQU 1 (
 	echo    Downloading...%ESC%[90m
 	curl "https://raw.githubusercontent.com/Fedora31/no-hats-bgum/master/%~1" -o %~1
-	echo    %ESC%[0mDone.
+	call :print_done
 ) else (
 	echo    Up to date.
 )
+exit /B 0
+
+:print_done
+echo    %ESC%[0mDone.
 exit /B 0
 
 :exit
@@ -95,3 +100,43 @@ echo.
 echo Press any key to exit...
 pause > nul
 exit /B 0
+
+-- END OF BATCH -->
+
+<package>
+<job id="GetLastModifiedTime"><script language="VBScript">
+Dim fso, f, d, r
+Set fso = CreateObject("Scripting.FileSystemObject")
+Set f = fso.GetFile(WScript.Arguments(0))
+d = f.DateLastModified
+WScript.Echo year(d) & "-" & Right(0 & month(d), 2) & "-" & Right(0 & day(d), 2) _
+	& "T" & Right(0 & hour(d), 2) & ":" & Right(0 & minute(d), 2) _
+	& ":" & Right(0 & second(d), 2) & "Z"
+WScript.Quit
+</script></job>
+
+<job id="CompareDates"><script language="VBScript">
+
+d1 = WScript.Arguments(0)
+t1 = (CDbl(Mid(d1, 1, 4)) - 2010) * 31622400
+t1 = t1 + CDbl(Mid(d1, 6, 2)) * 2678400
+t1 = t1 + CDbl(Mid(d1, 9, 2)) * 86400
+t1 = t1 + CDbl(Mid(d1, 12, 2)) * 3600
+t1 = t1 + CDbl(Mid(d1, 15, 2)) * 60
+t1 = t1 + CDbl(Mid(d1, 18, 2))
+
+d2 = WScript.Arguments(1)
+t2 = (CDbl(Mid(d2, 1, 4)) - 2010) * 31622400
+t2 = t2 + CDbl(Mid(d2, 6, 2)) * 2678400
+t2 = t2 + CDbl(Mid(d2, 9, 2)) * 86400
+t2 = t2 + CDbl(Mid(d2, 12, 2)) * 3600
+t2 = t2 + CDbl(Mid(d2, 15, 2)) * 60
+t2 = t2 + CDbl(Mid(d2, 18, 2))
+
+If t1 < t2 Then
+	WScript.Quit 1
+Else
+	WScript.Quit 0
+End If
+</script></job>
+</package>
