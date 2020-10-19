@@ -33,6 +33,12 @@ These versions don't have release numbers at the end, I'll simply replace them w
   ![](https://screenshots.gamebanana.com/img/ss/skins/5dd1de610007f.jpg)
   
   ![](https://screenshots.gamebanana.com/img/ss/skins/5dd31a2441ea7.jpg)
+
+### Concerning performance...
+
+In a nutshell:
+- If you are concerned about the game's artstyle and performance, this mod is a good option.
+- If you are only concerned about performance and don't care about missing bodyparts, then something like [JarateKing's CleanTF2plus](https://github.com/JarateKing/CleanTF2plus) should be more fitting.
   
 ## Secondary mods
 
