@@ -13,3 +13,6 @@
   ### Thank you for your work!
   
 * Thanks to **H9lk** for overhauling the markdown files.
+
+* The "update-nohats" script was made and contributed by [junior](https://github.com/juniorsgithub).
+  ### Thank you for your work!
