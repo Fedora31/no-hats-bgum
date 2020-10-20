@@ -1,4 +1,4 @@
-<!-- : Batch file with embeded VBS (http://www.dostips.com/forum/viewtopic.php?p=33963#p33963)
+@set @junk=1 /* BATCH FILE WITH EMBEDDED JSCRIPT
 
 :: NO HATS MOD UPDATE SCRIPT
 :: for https://github.com/Fedora31/no-hats-bgum
@@ -27,6 +27,8 @@ IF NOT %ERRORLEVEL% EQU 0 (
 	echo %ESC%[101;93m ERROR %ESC%[0m %ESC%[32mcurl%ESC%[0m not found
 	goto :exit
 )
+
+set "scriptPath=%~0"
 
 :: Check jq.
 where /Q jq
@@ -74,14 +76,14 @@ exit /B 0
 
 :update
 :: Get last modified time.
-for /f "tokens=*" %%a in ('cscript //nologo update-nohats.cmd?.wsf //job:GetLastModifiedTime %~1') do set "LastModified=%%a"
+for /f "tokens=*" %%a in ('cscript //nologo //E:jscript "%scriptPath%" %~1') do set "LastModified=%%a"
 echo    downloaded: %LastModified%
 
 :: Get last commit time.
-for /f "tokens=*" %%a in ('curl -s "https://api.github.com/repos/Fedora31/no-hats-bgum/commits?path=%~1" ^| 	"%jq%" -r ".[0].commit.committer.date"') do set "LastCommit=%%a"
+for /f "tokens=*" %%a in ('curl -s "https://api.github.com/repos/Fedora31/no-hats-bgum/commits?path=%~1" ^| "%jq%" -r ".[0].commit.committer.date"') do set "LastCommit=%%a"
 echo    lastest version: %LastCommit%
 
-cscript //nologo update-nohats.cmd?.wsf //job:CompareDates "%LastModified%" "%LastCommit%"
+cscript //nologo //E:jscript "%scriptPath%" "%LastModified%" "%LastCommit%"
 IF %ERRORLEVEL% EQU 1 (
 	echo    Downloading...%ESC%[90m
 	curl "https://raw.githubusercontent.com/Fedora31/no-hats-bgum/master/%~1" -o %~1
@@ -101,42 +103,50 @@ echo Press any key to exit...
 pause > nul
 exit /B 0
 
--- END OF BATCH -->
+:: ------------------------------------------------
+:: --- END OF BATCH --- */
 
-<package>
-<job id="GetLastModifiedTime"><script language="VBScript">
-Dim fso, f, d, r
-Set fso = CreateObject("Scripting.FileSystemObject")
-Set f = fso.GetFile(WScript.Arguments(0))
-d = f.DateLastModified
-WScript.Echo year(d) & "-" & Right(0 & month(d), 2) & "-" & Right(0 & day(d), 2) _
-	& "T" & Right(0 & hour(d), 2) & ":" & Right(0 & minute(d), 2) _
-	& ":" & Right(0 & second(d), 2) & "Z"
-WScript.Quit
-</script></job>
+// START OF JSCRIPT
 
-<job id="CompareDates"><script language="VBScript">
+if (WScript.Arguments.length == 1) {
+	getLastModifiedTime(WScript.Arguments(0));
+} else if (WScript.Arguments.length == 2) {
+	compareDates(WScript.Arguments(0), WScript.Arguments(1));
+} else {
+	WScript.Quit(0);
+}
 
-d1 = WScript.Arguments(0)
-t1 = (CDbl(Mid(d1, 1, 4)) - 2010) * 31622400
-t1 = t1 + CDbl(Mid(d1, 6, 2)) * 2678400
-t1 = t1 + CDbl(Mid(d1, 9, 2)) * 86400
-t1 = t1 + CDbl(Mid(d1, 12, 2)) * 3600
-t1 = t1 + CDbl(Mid(d1, 15, 2)) * 60
-t1 = t1 + CDbl(Mid(d1, 18, 2))
+function compareDates(d1, d2) {
+	d1 = d1.substring(5, 10) + "-" + d1.substring(0, 4) + " " + d1.substring(11, 19)
+	d1 = Date.parse(d1)
 
-d2 = WScript.Arguments(1)
-t2 = (CDbl(Mid(d2, 1, 4)) - 2010) * 31622400
-t2 = t2 + CDbl(Mid(d2, 6, 2)) * 2678400
-t2 = t2 + CDbl(Mid(d2, 9, 2)) * 86400
-t2 = t2 + CDbl(Mid(d2, 12, 2)) * 3600
-t2 = t2 + CDbl(Mid(d2, 15, 2)) * 60
-t2 = t2 + CDbl(Mid(d2, 18, 2))
+	d2 = d2.substring(5, 10) + "-" + d2.substring(0, 4) + " " + d2.substring(11, 19)
+	d2 = Date.parse(d2)
 
-If t1 < t2 Then
-	WScript.Quit 1
-Else
-	WScript.Quit 0
-End If
-</script></job>
-</package>
+	WScript.Quit(d2 > d1 ? 1 : 0)
+	
+	function parse(string, start, end) {
+		return parseInt(
+			string.substring(start, end));
+	}
+}
+
+function getLastModifiedTime(file) {
+
+	d = new Date(
+		new ActiveXObject("Scripting.FileSystemObject")
+			.GetFile(WScript.Arguments(0))
+				.DateLastModified);	
+	WScript.Echo(
+		d.getFullYear() + "-" +
+		pad(d.getMonth() + 1) + "-" + 
+		pad(d.getDate()) + "T" + 
+		pad(d.getHours()) + ":" +
+		pad(d.getMinutes()) + ":" +
+		pad(d.getSeconds()) + "Z"
+	);
+
+	function pad(i){
+		return i.toString().length == 1 ? ("0" + i) : i.toString()
+	}
+}
