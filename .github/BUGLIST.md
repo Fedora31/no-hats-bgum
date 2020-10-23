@@ -17,3 +17,4 @@ Other hats will be added with time.
 * Ghastly Gibus (stays always red)
 * Ghastlier Gibus (stays always red)
 * Ghastlierest Gibus (stays always red)
+* Calamitous Cauldron (stays always red)
