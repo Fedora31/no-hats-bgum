@@ -1,7 +1,11 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
-### [0.5.6] -2020-10-03
+### [0.5.7] - 2020-10-24
+### Updated
+- no_hats_creatorstf to remove the community cosmetics added with the Gruesomely Overflowing Halloween Special event.
+
+### [0.5.6] - 2020-10-03
 ### Updated
 - no_unusuals to remove unusuals from the summer 2020 update and the Scream Fortress XII update.
 
