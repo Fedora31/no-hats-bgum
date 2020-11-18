@@ -121,8 +121,6 @@ output folder based on the instructions of the config file.
 You can decompile the mod and place it in this folder, or you can download an
 already decompiled and up to date version here:
 https://github.com/Fedora31/no-hats-bgum/blob/master/nhm_source/mechbgum_no_hats_mod/no_hats_bgum.zip
-(a version is already installed in the input folder. Unless a new update came
-out, you shouldn't need to install it again.)
 
 Be sure the filepath is the same as this one:
 input/models/...
