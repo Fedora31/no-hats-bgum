@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+### [0.5.8] - 2020-11-18
+### Added
+- nhcustom, an experimental program for Windows and Linux whose purpose is to modify the no hats mod.
+
 ### [0.5.7] - 2020-10-24
 ### Updated
 - no_hats_creatorstf to remove the community cosmetics added with the Gruesomely Overflowing Halloween Special event.
