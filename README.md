@@ -14,12 +14,15 @@ These versions don't have release numbers at the end, I'll simply replace them w
 
 **If you modified the mod**, I added a new `updates` directory containing vpk files that only remove cosmetics from specific updates, starting with the one from summer 2020. Like that you won't need to scrap your modified mod to have the latest hats disappear. You could merge them together to avoid having too many files in your `custom` folder. If you figured out how to modify the mod, you should have no problems doing this. ;)
 
+[nhcustom](https://github.com/Fedora31/no-hats-bgum/programs), an EXPERIMENTAL command-line program whose purpose is to modify the no-hats-mod, is now available for Windows and Linux. Contact me if you encounter problems about it.
+
 [A script](https://github.com/Fedora31/no-hats-bgum/releases) is now available for Windows users which checks if a new version is available and installs it automatically. It was contributed by [junior](./.github/CREDITS.md)!
 
 # Navigation
 
 * [Installation](#installation)
   * [Update Script](./scripts)
+  * [nhcustom](./programs)
   * [Changelog](./.github/CHANGELOG.md)
 * [Buglist](./.github/BUGLIST.md)
   * [Modify](#modify)
