@@ -8,14 +8,20 @@ DO NOT MOVE the .exe file out of this folder. It needs to be in the same
 directory as the config file, the database file (database.txt), the input
 folder and the output folder.
 
-Source code isn't yet available, but it will be eventually.
-
+Source code isn't yet available, but it will be once the program is complete and
+polished enough.
 
 ================================================================================
 You WILL see a certain number of cosmetics still appearing whith the mod created
 by this program. This is because of the database, which is incomplete, but I'm
 working on it.
 ================================================================================
+
+The first thing you have to do before trying to run this program is to go and
+download an uncompressed version of no-hats-bgum. You can download an up-to-date
+version here:
+
+https://github.com/Fedora31/no-hats-bgum/blob/master/nhm_source/mechbgum_no_hats_mod/no_hats_bgum.zip
 
 
 
@@ -34,6 +40,9 @@ For Linux, no dependencies are required as the executable comes bundled with
 every library it needs (explaining its big filesize). It was tested on
 Ubuntu 20.04 and Fedora 32.
 
+info: to run the program on Linux, cd in the same directory as the program and
+type "./nhcustom".
+
 
 
 =================
@@ -45,6 +54,12 @@ of what you want in the config file. Refer to the teamfortress wiki to get
 the correct names of the cosmetics or anything else you want to include in it.
 
 Anything in the config file is what you DON'T want to see in-game.
+
+(If you want the config to have the opposite effect, you can type a date
+that removes all cosmetics and only work with exceptions from there.
+Continue reading to know what I'm talking about.)
+
+
 What you can specify in the configuration file (a list of every possible
 entries is provided at the bottom of this text file):
 
@@ -121,6 +136,8 @@ output folder based on the instructions of the config file.
 You can decompile the mod and place it in this folder, or you can download an
 already decompiled and up to date version here:
 https://github.com/Fedora31/no-hats-bgum/blob/master/nhm_source/mechbgum_no_hats_mod/no_hats_bgum.zip
+(a version is already installed in the input folder. Unless a new update came
+out, you shouldn't need to install it again.)
 
 Be sure the filepath is the same as this one:
 input/models/...

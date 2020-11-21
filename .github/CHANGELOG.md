@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+### [0.5.9] - 2020-11-21
+### Updated
+- the database of nhcustom.
+
 ### [0.5.8] - 2020-11-18
 ### Added
 - nhcustom, an experimental program for Windows and Linux whose purpose is to modify the no hats mod.
