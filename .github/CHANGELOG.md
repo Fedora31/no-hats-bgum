@@ -1,19 +1,19 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
-### [0.5.9] - 2020-11-21
+## [0.5.9] - 2020-11-21
 ### Updated
 - the database of nhcustom.
 
-### [0.5.8] - 2020-11-18
+## [0.5.8] - 2020-11-18
 ### Added
 - nhcustom, an experimental program for Windows and Linux whose purpose is to modify the no hats mod.
 
-### [0.5.7] - 2020-10-24
+## [0.5.7] - 2020-10-24
 ### Updated
 - no_hats_creatorstf to remove the community cosmetics added with the Gruesomely Overflowing Halloween Special event.
 
-### [0.5.6] - 2020-10-03
+## [0.5.6] - 2020-10-03
 ### Updated
 - no_unusuals to remove unusuals from the summer 2020 update and the Scream Fortress XII update.
 
