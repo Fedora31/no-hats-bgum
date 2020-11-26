@@ -1,6 +1,11 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [0.6.0] - 2020-11-26
+### Updated
+- no_hats_bgum to add missing styles for the Bottle Cap and the Shutterbug.
+- the database of nhcustom.
+
 ## [0.5.9] - 2020-11-21
 ### Updated
 - the database of nhcustom.
