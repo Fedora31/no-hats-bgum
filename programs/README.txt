@@ -71,7 +71,7 @@ The name of a hat (ex: Fancy Fedora)
 
 An update (ex: Scream Fortress 2013)
 
-An equip region (ex: Shoes)
+An equip region (ex: Feet)
 
 A date (ex: 2015 or 2015/2016 or 2015-05-02/2016-09-10)
 info: if you type something like "2015/2016" in the config file, the program
