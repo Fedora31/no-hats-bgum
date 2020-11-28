@@ -1,7 +1,5 @@
 # nhcustom
 
-Thank you for trying out this little project.
-
 nhcustom is a (wip) application whose purpose is to modify the no-hats-bgum mod.
 It looks for a configuration file named "config.txt" and executes the actions
 specified in it.
@@ -15,10 +13,9 @@ polished enough.
 
 
 The database is, as far as I can tell, mostly complete. But the program or the
-database are nowhere near perfect. If you ecounter a proplem (e.g. you can't 
+database are nowhere near perfect. If you encounter a proplem (e.g. you can't 
 make a hat (dis)appear, the resulting mod is behaving strangely), feel free
 to contact me.
-
 
 
 The first thing you have to do before trying to run this program is to go and
@@ -163,7 +160,7 @@ Linux: https://streamable.com/vxchci
 
 Every cosmetic is referenced in this file, alongside every class they are for,
 every equip regions they occupy, with which update they came with, their release
-date, and their filepath in the game. The filepath may (and probably do) contain
+date, and their filepath in the game. The database may (and probably do) contain
 wrong information in it (e.g wrong paths, dates, equip regions, etc.) If you find
 something wrong in it, I'd be happy to correct it.
 
@@ -174,7 +171,7 @@ run the program, I'm well aware of them :D
 won't hurt anyone.)
 
 The program doesn't contain hard-coded lists for updates, hats or anything, it
-Scans the database for everything it needs. So I guess that if you add custom
+scans the database for everything it needs. So I guess that if you add custom
 entries to it, it *should* work. I haven't tested this though.
 
 
