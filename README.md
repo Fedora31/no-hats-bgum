@@ -18,6 +18,8 @@ These versions don't have release numbers at the end, I'll simply replace them w
 
 [A script](https://github.com/Fedora31/no-hats-bgum/releases) is now available for Windows users which checks if a new version is available and installs it automatically. It was contributed by [junior](./.github/CREDITS.md)!
 
+*Note:* There exist multiple versions of "no-hats-mod". The version provided here makes the default headgears reappear. If you want a version which only removes the hats, you can find an up-to-date version [here](https://www.teamfortress.tv/56398/no-hats-mod-headsfeet-2020-edition).
+
 # Navigation
 
 * [Installation](#installation)
