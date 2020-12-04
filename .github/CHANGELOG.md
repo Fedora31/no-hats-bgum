@@ -1,6 +1,12 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [0.6.1] - 2020-12-04
+### Updated
+- no_hats_bgum to remove the cosmetics added with the smissmas 2020 update.
+- no_unusuals to remove the unusuals added with the smissmas 2020 update.
+- the database of nhcustom to reference the cosmetics added with the smissmas 2020 update.
+
 ## [0.6.0] - 2020-11-26
 ### Updated
 - no_hats_bgum to add missing styles for the Bottle Cap and the Shutterbug.
