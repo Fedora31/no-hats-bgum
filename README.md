@@ -37,10 +37,10 @@ These versions don't have release numbers at the end, I'll simply replace them w
   - This is the main mod of the pack, it prevents the game from loading cosmetics. It also makes the default headgear reappear, should it be removed by the cosmetic the player is wearing. (E.g. no more soldiers jumping around without helmet, safety first amarite?)
   
   ![](https://screenshots.gamebanana.com/img/ss/skins/5dd1de610007f.jpg)
-  
-  ![](https://screenshots.gamebanana.com/img/ss/skins/5dd31a2441ea7.jpg)
 
 ### Concerning performance...
+
+You can get a **small** boost in performance with this mod, but it shouldn't be the main reason to install it. On my end, I generally have a ~7fps increase.
 
 In a nutshell:
 - If you are concerned about the game's artstyle and performance, this mod is a good option.
