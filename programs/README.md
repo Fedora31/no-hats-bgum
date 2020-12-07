@@ -12,10 +12,10 @@ Source code isn't yet available, but it will be once the program is complete and
 polished enough.
 
 
-The database is, as far as I can tell, mostly complete. But the program or the
-database are nowhere near perfect. If you encounter a proplem (e.g. you can't 
-make a hat (dis)appear, the resulting mod is behaving strangely), feel free
-to contact me.
+The database is, as far as I can tell, ~~mostly complete~~ NOT complete at all, my bad. 
+But the program or the database are nowhere near perfect. If you encounter a proplem
+(e.g. you can't make a hat (dis)appear, the resulting mod is behaving strangely),
+feel free to contact me.
 
 
 The first thing you have to do before trying to run this program is to go and
