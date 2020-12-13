@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [0.6.2] - 2020-12-13
+### Updated
+- nhcustom and added a new feature called "(KEEP) and (REMOVE) flags".
+
 ## [0.6.1] - 2020-12-04
 ### Updated
 - no_hats_bgum to remove the cosmetics added with the smissmas 2020 update.
