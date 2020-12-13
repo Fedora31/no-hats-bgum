@@ -51,9 +51,8 @@ of what you want in the config file. Refer to the teamfortress wiki to get
 the correct names of the cosmetics or anything else you want to include in it.
 
 Anything in the config file is what you **don't** want to see in-game.
-If you want the config to have the opposite effect, you can type a date
-that removes all cosmetics and only work with exceptions from there.
-Continue reading to know what I'm talking about.
+If you want the config to have the opposite effect, you can add the "(KEEP)"
+flag to your config file. Continue reading to know what I'm talking about.
 
 
 **What you can specify in the configuration file:**
@@ -126,6 +125,35 @@ You can make comments in your config file. Add a "#" before any of them. ex:
 	2007 #You can also add them on the same line as a parameter
 	#Everything written after a "#" is ignored, so don't write parameters after one.
 
+### the (KEEP) and (REMOVE) flags
+
+With version 0.2 came a new addition to the program. You should add one of these
+2 flags in your config file to specify whether you want the config file to
+contain entries that will be removed in the game ((REMOVE)), or entries that
+will be kept in the game, and everything else removed ((KEEP)). Ideally, your
+config file should have one (and only one) of those 2 flags in it.
+
+The (KEEP) flag makes the program copy the input folder to the output folder,
+then remove any cosmetics specified in the config from the output folder (which
+means these cosmetics will **appear** in-game, and everything else **won't**).
+The (REMOVE) flag simply makes the program copy the specified cosmetics to the
+output folder (so they will **not** appear in-game, and everything else
+**will**).
+
+This was added because the database will never be error-free. With this method,
+cosmetics that have wrong paths in the database or that are simply absent from
+it (like most of the medals) will still be correctly removed when using the
+(KEEP) flag.
+
+If no flag is specified, the program will use the (REMOVE) flag as default.
+
+Here is an example with the (KEEP) flag:
+
+	#the flag can be anywhere in the program, but only the first one will be valid
+	(KEEP)
+	Fancy Fedora #this config will only make the Fancy fedora visible.
+
+
 
 ## The input folder
 
@@ -158,11 +186,12 @@ Linux: https://streamable.com/vxchci
 
 ## The database
 
-Every cosmetic is referenced in this file, alongside every class they are for,
-every equip regions they occupy, with which update they came with, their release
-date, and their filepath in the game. The database may (and probably do) contain
-wrong information in it (e.g wrong paths, dates, equip regions, etc.) If you find
-something wrong in it, I'd be happy to correct it.
+Every cosmetic is (or should be) referenced in this file, alongside every class
+they are for, every equip regions they occupy, with which update they came with,
+their release date, and their filepath in the game. The database may
+(and probably do) contain wrong information in it (e.g wrong paths, dates,
+equip regions, etc.) If you find something wrong in it, I'd be happy to
+correct it.
 
 Note: You don't need to contact me about the red errors that may appear when you
 run the program, I'm well aware of them :D
