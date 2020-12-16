@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [0.6.3] - 2020-12-17
+### Updated
+- no_hats_creatorstf to remove the community cosmetics added with the Snowed-In Smissmas update.
+
 ## [0.6.2] - 2020-12-13
 ### Updated
 - nhcustom and added a new feature called "(KEEP) and (REMOVE) flags".
