@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [0.6.4] - 2020-12-18
+### Fixed
+- The spell lanterns and the tfconnect medals still appearing, and the Lucky laces not being replaced with the default model in no_hats_creatorstf. 
+
 ## [0.6.3] - 2020-12-17
 ### Updated
 - no_hats_creatorstf to remove the community cosmetics added with the Snowed-In Smissmas update.
