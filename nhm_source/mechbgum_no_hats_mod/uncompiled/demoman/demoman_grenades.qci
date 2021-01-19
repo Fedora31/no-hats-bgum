@@ -1,6 +1,0 @@
-$upaxis Y
-
-$bodygroup "grenades"
-{
-	studio "demo_grenades_bodygroup"
-}
