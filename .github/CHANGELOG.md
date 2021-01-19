@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [0.6.5] - 2021-01-19
+### Updated
+- no_hats_creatorstf to remove the Balance-Inator added with the 2021-01-17 update.
+
 ## [0.6.4] - 2020-12-18
 ### Fixed
 - The spell lanterns and the tfconnect medals still appearing, and the Lucky laces not being replaced with the default model in no_hats_creatorstf. 
