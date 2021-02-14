@@ -22,7 +22,7 @@ These versions don't have release numbers at the end, I'll simply replace them w
 
 * [Installation](#installation)
   * [Update Script](./scripts)
-  * [nhcustom](./programs)
+  * [nhcustom](https://github.com/Fedora31/nhcustom)
   * [Changelog](./.github/CHANGELOG.md)
 * [Buglist](./.github/BUGLIST.md)
   * [Modify](#modify)
