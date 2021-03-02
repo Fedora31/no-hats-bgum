@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [0.6.6] - 2021-03-02
+### Fixed
+- fixed no_hats_creatorstf to properly remove the Polar Parka and the Insulated Builder.
+
 ## [0.6.5] - 2021-01-19
 ### Updated
 - no_hats_creatorstf to remove the Balance-Inator added with the 2021-01-17 update.
