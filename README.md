@@ -1,8 +1,7 @@
 <p align="center"> 
-  <a href="https://gamebanana.com/skins/169236" rel="nofollow">
     <img
-        alt="No-Hats-mod"
-        src="https://screenshots.gamebanana.com/img/ss/srends/5e5be378f1b6c.jpg"
+        alt="nh-main"
+        src=".github/images/nhm_main.png"
         width="850"
       />
     </a>
@@ -22,7 +21,7 @@ These versions don't have release numbers at the end, I'll simply replace them w
 
 * [Installation](#installation)
   * [Update Script](./scripts)
-  * [nhcustom](https://github.com/Fedora31/nhcustom)
+  * [nh_custom](https://github.com/Fedora31/nhcustom)
   * [Changelog](./.github/CHANGELOG.md)
 * [Buglist](./.github/BUGLIST.md)
   * [Modify](#modify)
@@ -36,7 +35,13 @@ These versions don't have release numbers at the end, I'll simply replace them w
 - no\_hats\_bgum.vpk
   - This is the main mod of the pack, it prevents the game from loading cosmetics. It also makes the default headgear reappear, should it be removed by the cosmetic the player is wearing. (E.g. no more soldiers jumping around without helmet, safety first amarite?)
   
-  ![](https://screenshots.gamebanana.com/img/ss/skins/5dd1de610007f.jpg)
+<p align="center"> 
+  <img
+        alt="nh-view"
+        src="./.github/images/nhm_view.png"
+        width="850"
+      />
+</p>
 
 ### Concerning performance...
 
@@ -78,7 +83,13 @@ If your game isn't in the default location, you can always go on the game's page
 
 ## Modify
 
-![](https://screenshots.gamebanana.com/img/ss/skins/5db363d11849f.webp)
+<p align="center"> 
+  <img
+        alt="nh-modify"
+        src="./.github/images/nhm_modify.png"
+        width="850"
+      />
+</p>
 
 #### Here are 2 videos "trying" to show how you can modify the mod to let some cosmetics appear.
 
@@ -96,7 +107,7 @@ If your game isn't in the default location, you can always go on the game's page
 
 <p align="center"> 
   <img
-        alt="No-Hats-mod"
+        alt="nh-commercial"
         src=".github/images/nhm_commercial.png"
         width="850"
       />
