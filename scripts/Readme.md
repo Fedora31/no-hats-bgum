@@ -1,5 +1,5 @@
 # Update Script
-Checks which `vpk`s you have installed,
+Checks which `vpks` you have installed,
 compares their last modified date with the latest github commit,
 and downloads ones that are out of date.
 
@@ -9,4 +9,5 @@ and downloads ones that are out of date.
 
 ## Notes
 > Windows 10 only
+
 > It will fail if you have TF2 open
