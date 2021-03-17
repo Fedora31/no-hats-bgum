@@ -21,13 +21,11 @@ These versions don't have release numbers at the end, I'll simply replace them w
 
 * [Installation](#installation)
   * [Update Script](./scripts)
-  * [nh_custom](https://github.com/Fedora31/nhcustom)
+  * [nh_custom - app for modify mod](https://github.com/Fedora31/nhcustom)
   * [Changelog](./.github/CHANGELOG.md)
-
 * [Buglist](./.github/BUGLIST.md)
   * [Modify](#modify)
   * [Specific Updates (unmaintained as of 2020-12-04)](./updates)
-
 * [Source](./nhm_source)
 * [Questions & Answers](./.github/Q%26A.md)
 * [Credits](./.github/CREDITS.md)
