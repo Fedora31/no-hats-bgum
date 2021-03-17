@@ -12,7 +12,7 @@
 * "no_hats_bgum.vpk" is the main mod I'm keeping up to date. It's based on [**Jeebsau**'s No Hats Mod](https://www.teamfortress.tv/35222/no-hats-mod), which is also an updated version of [**Hrbls**' mod](https://www.teamfortress.tv/16179/no-hats-mod), itself an updated version of **Tricky_X**'s mod. It was specifically made possible thanks to **Mechbgum**. 
   ### Thank you for your work!
   
-* Thanks to **H9lk** for overhauling the markdown files.
+* Thanks to [h9lk](https://github.com/h9lk) for overhauling the markdown files.
 
 * The "update-nohats" script was made and contributed by [junior](https://github.com/juniorsgithub).
   ### Thank you for your work!

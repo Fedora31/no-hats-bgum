@@ -1,8 +1,7 @@
 <p align="center"> 
-  <a href="https://gamebanana.com/skins/169236" rel="nofollow">
     <img
-        alt="No-Hats-mod"
-        src="https://screenshots.gamebanana.com/img/ss/srends/5e5be378f1b6c.jpg"
+        alt="nh-main"
+        src=".github/images/nhm_main.png"
         width="850"
       />
     </a>
@@ -16,17 +15,18 @@ These versions don't have release numbers at the end, I'll simply replace them w
 
 [A script](https://github.com/Fedora31/no-hats-bgum/releases) is now available for Windows users which checks if a new version is available and installs it automatically. It was contributed by [junior](./.github/CREDITS.md)!
 
-*Note:* There exist multiple versions of "no-hats-mod". The version provided here makes the default headgears reappear. If you want a version which only removes the hats, you can find an up-to-date version [here](https://www.teamfortress.tv/56398/no-hats-mod-headsfeet-2020-edition).
+> There exist multiple versions of `no-hats-mod`. The version provided here makes the default headgears reappear. If you want a version which only removes the hats, you can find an up-to-date version [here](https://www.teamfortress.tv/56398/no-hats-mod-headsfeet-2020-edition).
 
 # Navigation
 
 * [Installation](#installation)
   * [Update Script](./scripts)
-  * [nhcustom](https://github.com/Fedora31/nhcustom)
+  * [nh_custom - app for modify mod](https://github.com/Fedora31/nhcustom)
   * [Changelog](./.github/CHANGELOG.md)
 * [Buglist](./.github/BUGLIST.md)
   * [Modify](#modify)
   * [Specific Updates (unmaintained as of 2020-12-04)](./updates)
+* [Source](./nhm_source)
 * [Questions & Answers](./.github/Q%26A.md)
 * [Credits](./.github/CREDITS.md)
 
@@ -36,7 +36,13 @@ These versions don't have release numbers at the end, I'll simply replace them w
 - no\_hats\_bgum.vpk
   - This is the main mod of the pack, it prevents the game from loading cosmetics. It also makes the default headgear reappear, should it be removed by the cosmetic the player is wearing. (E.g. no more soldiers jumping around without helmet, safety first amarite?)
   
-  ![](https://screenshots.gamebanana.com/img/ss/skins/5dd1de610007f.jpg)
+<p align="center"> 
+  <img
+        alt="nh-view"
+        src="./.github/images/nhm_view.png"
+        width="850"
+      />
+</p>
 
 ### Concerning performance...
 
@@ -78,7 +84,13 @@ If your game isn't in the default location, you can always go on the game's page
 
 ## Modify
 
-![](https://screenshots.gamebanana.com/img/ss/skins/5db363d11849f.webp)
+<p align="center"> 
+  <img
+        alt="nh-modify"
+        src="./.github/images/nhm_modify.png"
+        width="850"
+      />
+</p>
 
 #### Here are 2 videos "trying" to show how you can modify the mod to let some cosmetics appear.
 
@@ -96,7 +108,7 @@ If your game isn't in the default location, you can always go on the game's page
 
 <p align="center"> 
   <img
-        alt="No-Hats-mod"
+        alt="nh-commercial"
         src=".github/images/nhm_commercial.png"
         width="850"
       />
