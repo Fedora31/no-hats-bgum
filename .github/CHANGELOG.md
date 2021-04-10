@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [0.6.7] - 2021-04-07
+### Updated
+- updated no_hats_creatorstf to remove the Dell Pickle and the Dell Pickled cosmetic items.
+
 ## [0.6.6] - 2021-03-02
 ### Fixed
 - fixed no_hats_creatorstf to properly remove the Polar Parka and the Insulated Builder.
