@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [0.6.8] - 2021-04-11
+### Updated
+- updated no_hats_creatorstf to remove the community created cosmetics added with the Digital Directive event.
+
 ## [0.6.7] - 2021-04-07
 ### Updated
 - updated no_hats_creatorstf to remove the Dell Pickle and the Dell Pickled cosmetic items.
