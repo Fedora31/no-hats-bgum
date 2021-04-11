@@ -94,9 +94,9 @@ If your game isn't in the default location, you can always go on the game's page
 
 #### Here are 2 videos "trying" to show how you can modify the mod to let some cosmetics appear.
 
-* [Windows](https://streamable.com/uav0li)
+* [Windows](https://streamable.com/b9evay)
 
-* [Linux](https://streamable.com/vxchci)
+* [Linux](https://streamable.com/v0g3dh)
 
 ## Links to similar mods
 
