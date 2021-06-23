@@ -1,9 +1,13 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [0.6.9] - 2021-06-23
+### Updates
+- Updated no_hats_bgum to remove the cosmetics added with the summer 2021 update.
+
 ## [0.6.8] - 2021-04-11
 ### Updated
-- updated no_hats_creatorstf to remove the community created cosmetics added with the Digital Directive event.
+- Updated no_hats_creatorstf to remove the community created cosmetics added with the Digital Directive event.
 
 ## [0.6.7] - 2021-04-07
 ### Updated
