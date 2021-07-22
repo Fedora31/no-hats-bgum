@@ -66,6 +66,8 @@ In a nutshell:
   - This file removes the majority of the weapon skins, with some exceptions. This mod doesn't work on Valve servers and you need to move all of your skinned items at the end of your inventory, otherwise your weapons will load indefinitely.
 - no\_botkiller.vpk
   - Removes robot heads from weapons.
+- no\_zombie\_skins.vpk
+  - Replaces Voodoo-cursed Souls skins with the default player model. This mod doesn't work on Valve servers. It was contributed by gabrielwoj.
 
 ## Installation
 

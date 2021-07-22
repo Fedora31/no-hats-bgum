@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [0.7.0] - 2021-07-22
+### Added
+- Added a new mod called "no_zombie_skins" which replaces voodoo-cursed souls with the default player model. This mod doesn't work on Valve servers. It was contributed by gabrielwoj.
+
 ## [0.6.9] - 2021-06-23
 ### Updates
 - Updated no_hats_bgum to remove the cosmetics added with the summer 2021 update.

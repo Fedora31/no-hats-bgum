@@ -16,3 +16,6 @@
 
 * The "update-nohats" script was made and contributed by [junior](https://github.com/juniorsgithub).
   ### Thank you for your work!
+
+* "no_zombie_skins.vpk" was contributed by [gabrielwoj](https://github.com/gabrielwoj).
+  ### Thank you for your work!
