@@ -60,7 +60,7 @@ In a nutshell:
   - This mod is for people playing in the creators.tf servers. It removes the custom cosmetics the servers add. This mod is intended to be installed with the main mod.
 - no\_unusuals.vpk
   - This file removes unusual particles but doesn't work on Valve servers (because of their sv_pure whitelist). I'm not the person maintaining this mod thus I will not update it if some unusuals are still appearing.
-  - **Important** : This mod may break all of the muzzleflashes (This happened to me and to a couple of other people.) I currently do not know how to fix the issue, but you can circumvent it by setting this option in your game console or autoexec: `r_drawtracers_firstperson 0`. This isn't a great fix but it's all I could find.
+  - **Important** : This mod may break all of the weapon tracers (this happened to me and to a couple of other people). And show the "missing particle" (big red crosses) instead. I currently do not know how to fix the issue, but you can circumvent it by setting this option in your game console or autoexec: `r_drawtracers_firstperson 0`. This isn't a great fix but it's all I could find.
 - no\_christmas\_lights.vpk
   - Removes christmas lights from festivized weapons. Not to confuse with the limited **festive** weapons, not affected by this mod.
 - no\_skins.vpk
