@@ -4,6 +4,8 @@
 
 Other hats will be added with time.
 
+### no\_hats\_bgum.vpk
+
 * The Last Breath
 * Apparition's Aspect
 * Nose Candy, style 1
@@ -18,3 +20,7 @@ Other hats will be added with time.
 * Ghastlier Gibus (stays always red)
 * Ghastlierest Gibus (stays always red)
 * Calamitous Cauldron (stays always red)
+
+### no\_zombie\_skins.vpk
+
+* The spy's eyes aren't affected by the Überchage when equipped with the Voodoo-Cursed Spy Soul.

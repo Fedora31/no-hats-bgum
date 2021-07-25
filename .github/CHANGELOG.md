@@ -1,6 +1,11 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [0.7.1] - 2021-07-25
+### Fixed
+- Fixed BLU Zombie Demoman Übercharge texture not having the correct lighting
+- Fixed RED Zombie Sniper not being correctly affected by the Übercharge
+
 ## [0.7.0] - 2021-07-22
 ### Added
 - Added a new mod called "no_zombie_skins" which replaces voodoo-cursed souls with the default player model. This mod doesn't work on Valve servers. It was contributed by gabrielwoj.
