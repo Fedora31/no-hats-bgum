@@ -3,7 +3,7 @@ All notable changes to this project will be documented in this file.
 
 ## [0.7.1] - 2021-07-25
 ### Fixed
-- Fixed BLU Zombie Demoman Übercharge texture not having the correct lighting
+- Fixed BLU Zombie Demoman texture not having the correct lighting
 - Fixed RED Zombie Sniper not being correctly affected by the Übercharge
 
 ## [0.7.0] - 2021-07-22
