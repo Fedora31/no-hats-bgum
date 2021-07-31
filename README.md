@@ -60,7 +60,7 @@ In a nutshell:
   - This mod is for people playing in the creators.tf servers. It removes the custom cosmetics the servers add. This mod is intended to be installed with the main mod.
 - no\_unusuals.vpk
   - This file removes unusual particles but doesn't work on Valve servers (because of their sv_pure whitelist). I'm not the person maintaining this mod thus I will not update it if some unusuals are still appearing.
-  - **Important** : This mod may break all of the weapon tracers (this happened to me and to a couple of other people). And show the "missing particle" (big red crosses) instead. I currently do not know how to fix the issue, but you can circumvent it by setting this option in your game console or autoexec: `r_drawtracers_firstperson 0`. This isn't a great fix but it's all I could find.
+  - **Important** : This mod may break all of the weapon tracers (this happened to me and to a couple of other people) and show the "missing particle" (big red crosses) instead. I currently do not know how to fix the issue, but you can circumvent it by setting this option in your game console or autoexec: `r_drawtracers_firstperson 0`. This isn't a great fix but it's all I could find.
 - no\_christmas\_lights.vpk
   - Removes christmas lights from festivized weapons. Not to confuse with the limited **festive** weapons, not affected by this mod.
 - no\_skins.vpk
@@ -83,7 +83,7 @@ If your game isn't in the default location, you can always go on the game's page
 ## Bug report
 
 
-* If you ever come across a bug (e.g. a cosmetic still visible or a player not having the default headgear reappear) you can send me an e-mail at `pevhs AT airmail DoT cc` or contact me through [Steam](https://steamcommunity.com/id/mranchois). PLEASE read the [Buglist](./.github/BUGLIST.md) and the [Q&A](./.github/Q%26A.md) if you want to contact me. (You can also post a new issue on this repo but know that I don't check it often.)
+* If you ever come across a bug (e.g. a cosmetic still visible or a player not having the default headgear reappear) you can send me an e-mail at `pevhs AT airmail DoT cc`. PLEASE read the [Buglist](./.github/BUGLIST.md) and the [Q&A](./.github/Q%26A.md) if you want to contact me. (You can also post a new issue on this repo but **know that I don't check it often, I'll always be more reachable through e-mails.**)
 
 ## Modify
 
