@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [0.7.2] - 2021-09-04
+### Updated
+- no_hats_creatorstf now removes the community-made cosmetics introduced with the Belated September 1st update.
+
 ## [0.7.1] - 2021-07-25
 ### Fixed
 - Fixed BLU Zombie Demoman texture not having the correct lighting

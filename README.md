@@ -58,6 +58,7 @@ In a nutshell:
   - Rarely, some pyro masks still appear in the main mod. This is due to a bug, the mod is unable to replace them with the default pyro head so they're simply not showing up. For visibility reasons (snipers) I let them appear by default but you can use this mod if you want to remove them completely (they will sometimes still appear due to the same bug). This mod is intended to be installed with the main mod.
 - no\_hats\_creatorstf.vpk
   - This mod is for people playing in the creators.tf servers. It removes the custom cosmetics the servers add. This mod is intended to be installed with the main mod.
+  - You may be wondering why this mod exists since the creators.tf servers provide the command `/ctfhats` to disable custom hats. This is because this command makes the hats disappear, but does not replace them with the default headgear. So for now, this mod is still included in the pack.
 - no\_unusuals.vpk
   - This file removes unusual particles but doesn't work on Valve servers (because of their sv_pure whitelist). I'm not the person maintaining this mod thus I will not update it if some unusuals are still appearing.
   - **Important** : This mod may break all of the weapon tracers (this happened to me and to a couple of other people) and show the "missing particle" (big red crosses) instead. I currently do not know how to fix the issue, but you can circumvent it by setting this option in your game console or autoexec: `r_drawtracers_firstperson 0`. This isn't a great fix but it's all I could find.
