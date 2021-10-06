@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [0.7.3] - 2021-10-06
+### Updated
+ - no_hats_bgum now removes the cosmetic items that were introduced with Scream Fortress XIII.
+
 ## [0.7.2] - 2021-09-04
 ### Updated
 - no_hats_creatorstf now removes the community-made cosmetics introduced with the Belated September 1st update.
