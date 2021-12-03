@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [0.7.4] - 2021-12-03
+### Updated
+ - no_hats_bgum now removes the cosmetics items that were introduced with the Smissmas 2021 update.
+
 ## [0.7.3] - 2021-10-06
 ### Updated
  - no_hats_bgum now removes the cosmetic items that were introduced with Scream Fortress XIII.
