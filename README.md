@@ -7,7 +7,7 @@
     </a>
 </p>
 
-#### **NOTE: Apart from no_hats_bgum.vpk, All the mods are now dormant. I will not add any new mods or work on the existing ones.** I still plan to update no_hats_bgum.vpk for the time being. Occasional bug fixes may be released for the others, but this is without any guarantees.
+### **NOTE: Apart from no_hats_bgum.vpk, All the mods are now dormant. I will not add any new mods or work on the existing ones.** I still plan to update no_hats_bgum.vpk for the time being. Occasional bug fixes may be released for the others, but this is without any guarantees.
 
 This is a pack of mods whose purpose is to remove some visual aspects from Team Fortress 2 (cosmetics, skins, unusuals and some christmas lights).
 
