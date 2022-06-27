@@ -63,7 +63,6 @@ In a nutshell:
   - You may be wondering why this mod exists since the creators.tf servers provide the command `/ctfhats` to disable custom hats. This is because this command makes the hats disappear, but does not replace them with the default headgear. So for now, this mod is still included in the pack.
 - no\_unusuals.vpk
   - This file removes unusual particles but doesn't work on Valve servers (because of their sv_pure whitelist). I'm not the person maintaining this mod thus I will not update it if some unusuals are still appearing.
-  - **Important** : This mod may break all of the weapon tracers (this happened to me and to a couple of other people) and show the "missing particle" (big red crosses) instead. I currently do not know how to fix the issue, but you can circumvent it by setting this option in your game console or autoexec: `r_drawtracers_firstperson 0`. This isn't a great fix but it's all I could find.
 - no\_christmas\_lights.vpk
   - Removes christmas lights from festivized weapons. Not to confuse with the limited **festive** weapons, not affected by this mod.
 - no\_skins.vpk
