@@ -13,7 +13,7 @@ This is a pack of mods whose purpose is to remove some visual aspects from Team 
 
 These versions don't have release numbers at the end, I'll simply replace them whenever they receive an update so the .vpk files names won't change. This should mean you could add them to your personal tf2 repo to receive any updates as soon as they're out.
 
-[nhcustom](https://github.com/Fedora31/nhcustom), an EXPERIMENTAL command-line program whose purpose is to modify the no-hats-mod, is now available for Windows and Linux. Contact me if you encounter problems with it.
+[nhcustom2](https://github.com/Fedora31/nhcustom2), a command-line program whose purpose is to modify the no-hats-mod.
 
 [A script](https://github.com/Fedora31/no-hats-bgum/releases) is now available for Windows users which checks if a new version is available and installs it automatically. It was contributed by [junior](./.github/CREDITS.md)!
 
