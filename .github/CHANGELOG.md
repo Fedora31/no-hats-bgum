@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [0.7.6] - 2022-07-29
+ - no_hats_bgum now removes the cosmetic items added with the summer 2022 update.
+
 ## [0.7.5] - 2022-04-19
  - no_unusuals now removes the unusual effects that were added in the Summer 2021 pack, Scream Fortress XIII and Smissmas 2021.
 
