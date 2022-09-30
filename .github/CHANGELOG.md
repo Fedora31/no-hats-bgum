@@ -1,5 +1,8 @@
-# Changelog
-All notable changes to this project will be documented in this file.
+# Changelog (not updated anymore)
+All notable changes to this project were documented in this file. Please consult the commits instead.
+
+## [0.7.7] - 2022-09-30
+ - no_skins has been updated and should properly hide skins previously unaffected.
 
 ## [0.7.6] - 2022-07-29
  - no_hats_bgum now removes the cosmetic items added with the summer 2022 update.

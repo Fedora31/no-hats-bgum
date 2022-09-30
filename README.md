@@ -51,7 +51,7 @@ These versions don't have release numbers at the end, I'll simply replace them w
 You can get a **small** boost in performance with this mod, but it shouldn't be the main reason to install it. On my end, I generally have a ~7fps increase.
 
 In a nutshell:
-- If you are concerned about the game's artstyle and performance, this mod is a good option.
+- If you are concerned about the game's artstyle, this mod is a good option.
 - If you are only concerned about performance and don't care about missing bodyparts, then something like [JarateKing's CleanTF2plus](https://github.com/JarateKing/CleanTF2plus) should be more fitting.
   
 ## Secondary mods
@@ -66,7 +66,8 @@ In a nutshell:
 - no\_christmas\_lights.vpk
   - Removes christmas lights from festivized weapons. Not to confuse with the limited **festive** weapons, not affected by this mod.
 - no\_skins.vpk
-  - This file removes the majority of the weapon skins, with some exceptions. This mod doesn't work on Valve servers and you need to move all of your skinned items at the end of your inventory, otherwise your weapons will load indefinitely.
+  - This file removes the majority of the weapon skins, with some exceptions. This mod doesn't work on Valve servers and **you need to move all of your skinned items at the end of your inventory**, otherwise your weapons will load indefinitely.
+  - This mod received an update that should properly hide skins that were previously showing in the older version. However, some of the weapons wearing those skins may have some issues like a weird reflectivity (Killer Bee) or an orange shine (Dragon Slayer). Other problems may exist.
 - no\_botkiller.vpk
   - Removes robot heads from weapons.
 - no\_zombie\_skins.vpk
