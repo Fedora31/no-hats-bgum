@@ -50,6 +50,8 @@ These versions don't have release numbers at the end, I'll simply replace them w
 
 You can get a **small** boost in performance with this mod, but it shouldn't be the main reason to install it. On my end, I generally have a ~7fps increase.
 
+**Also:** I've seen a [video](https://youtu.be/Cw4DnQ4K9jk?t=469) where this mod actually hinders performance. Please make your own tests, depending on your setup you may want to look for something else.
+
 In a nutshell:
 - If you are concerned about the game's artstyle, this mod is a good option.
 - If you are only concerned about performance and don't care about missing bodyparts, then something like [JarateKing's CleanTF2plus](https://github.com/JarateKing/CleanTF2plus) should be more fitting.
