@@ -10,9 +10,7 @@ Other hats will be added with time.
 * Apparition's Aspect
 * Nose Candy, style 1
 * All of the Voodoo-Cursed Souls (there now exists a separate mod to make them disappear)
-* Baseball Bill's Sports Shine
-* Ritzy Rick's Hair Fixative
-* Texas Slim's Dome Shine
+* Prince Tavish's Crown
 * Soldier's Slope Scoper (stays always red)
 * Medic Mech-bag (stays always red)
 * Human Cannonball (stays always red)
