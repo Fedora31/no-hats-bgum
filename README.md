@@ -7,36 +7,34 @@
     </a>
 </p>
 
-### **NOTE: Apart from no_hats_bgum.vpk, All the mods are now dormant. I will not add any new mods or work on the existing ones.** I still plan to update no_hats_bgum.vpk for the time being. Occasional bug fixes may be released for the others, but this is without any guarantees.
+# no-hats-bgum
 
-This is a pack of mods whose purpose is to remove some visual aspects from Team Fortress 2 (cosmetics, skins, unusuals and some christmas lights).
+This is a pack of mods whose purpose is to remove some visual aspects from Team Fortress 2 (cosmetics, skins, unusuals, etc).
 
-These versions don't have release numbers at the end, I'll simply replace them whenever they receive an update so the .vpk files names won't change. This should mean you could add them to your personal tf2 repo to receive any updates as soon as they're out.
+> Note: apart from no_hats_bgum.vpk, all the mods are dormant. I will not add new mods or work on the existing ones. Occasional bug fixes may be released, but this is without any guarantees.
 
-[nhcustom2](https://github.com/Fedora31/nhcustom2), a command-line program whose purpose is to modify the no-hats-mod.
+## Related repositories
 
-[A script](https://github.com/Fedora31/no-hats-bgum/releases) is now available for Windows users which checks if a new version is available and installs it automatically. It was contributed by [junior](./.github/CREDITS.md)!
+- [nhcustom2](https://github.com/Fedora31/nhcustom2), a command-line program whose purpose is to modify the no-hats-mod.
+- [nhupdater2](https://github.com/Fedora31/nhupdater2), shell scripts to help generating the files used by no-hats-bgum.vpk.
+- [nhschema](https://github.com/Fedora31/nhschema), a program that reads TF2's item schema and outputs data for nhupdater2.
 
-> There exist multiple versions of `no-hats-mod`. The version provided here makes the default headgears reappear. If you want a version which only removes the hats, you can find an up-to-date version [here](https://www.teamfortress.tv/56398/no-hats-mod-headsfeet-2020-edition).
+> There exist multiple versions of the so-called `no-hats-mod`. The version provided here makes the default headgears reappear. If you want a version which only removes the hats, you can find an up-to-date version [here](https://www.teamfortress.tv/56398/no-hats-mod-headsfeet-2020-edition).
 
-# Navigation
+## Navigation
 
 * [Installation](#installation)
-  * [Update Script](./scripts)
-  * [nhcustom2 - a program to modify the mod](https://github.com/Fedora31/nhcustom2)
-  * [Changelog](./.github/CHANGELOG.md)
-* [Buglist](./.github/BUGLIST.md)
+  * [Update script (outdated)](./scripts)
   * [Modify](#modify)
-  * [Specific Updates (unmaintained as of 2020-12-04)](./updates)
+* [Buglist](./.github/BUGLIST.md)
 * [Source](./nhm_source)
 * [Questions & Answers](./.github/Q%26A.md)
 * [Credits](./.github/CREDITS.md)
 
 
-## Primary mod
+## Primary mod- no\_hats\_bgum.vpk
 
-- no\_hats\_bgum.vpk
-  - This is the main mod of the pack, it prevents the game from loading cosmetics. It also makes the default headgear reappear, should it be removed by the cosmetic the player is wearing. (E.g. no more soldiers jumping around without helmet, safety first amarite?)
+This is the main mod of the pack, it prevents the game from loading cosmetics. It also makes the default headgear reappear, should it be removed by the cosmetic the player is wearing. (E.g. no more soldiers jumping around without helmet, safety first amarite?). It also works on Valve servers.
 
 <p align="center">
   <img
@@ -45,6 +43,7 @@ These versions don't have release numbers at the end, I'll simply replace them w
         width="850"
       />
 </p>
+
 
 ### Concerning performance...
 
@@ -55,6 +54,7 @@ You can get a **small** boost in performance with this mod, but it shouldn't be 
 In a nutshell:
 - If you are concerned about the game's artstyle, this mod is a good option.
 - If you are only concerned about performance and don't care about missing bodyparts, then something like [JarateKing's CleanTF2plus](https://github.com/JarateKing/CleanTF2plus) should be more fitting.
+
 
 ## Secondary mods
 
@@ -75,6 +75,7 @@ In a nutshell:
 - no\_zombie\_skins.vpk
   - Replaces Voodoo-cursed Souls skins with the default player model. This mod doesn't work on Valve servers. It was contributed by gabrielwoj.
 
+
 ## Installation
 
 * On Windows, place any .vpk file into:
@@ -85,12 +86,20 @@ In a nutshell:
 
 If your game isn't in the default location, you can always go on the game's page in your Steam library. `click the settings icon > Manage > Browse local files`
 
-## Bug report
 
+## Bug report
 
 * If you ever come across a bug (e.g. a cosmetic still visible or a player not having the default headgear reappear) you can send me an e-mail at `pevhs AT airmail DoT cc`. PLEASE read the [Buglist](./.github/BUGLIST.md) and the [Q&A](./.github/Q%26A.md) if you want to contact me. (You can also post a new issue on this repo but **know that I don't check it often, I'll always be more reachable through e-mails.**)
 
+
 ## Modify
+
+**You should use [nhcustom2](https://github.com/Fedora31/nhcustom2).** This program is miles better than the old, manual way. You can still watch the two videos that were created when this program didn't exist here:
+
+* [Windows](https://streamable.com/b9evay)
+* [Linux](https://streamable.com/v0g3dh)
+
+Please note that even with nhcustom2, there are some limitations. See the following image:
 
 <p align="center">
   <img
@@ -100,11 +109,6 @@ If your game isn't in the default location, you can always go on the game's page
       />
 </p>
 
-#### Here are 2 videos "trying" to show how you can modify the mod to let some cosmetics appear.
-
-* [Windows](https://streamable.com/b9evay)
-
-* [Linux](https://streamable.com/v0g3dh)
 
 ## Links to similar mods
 
