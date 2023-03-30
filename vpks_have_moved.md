@@ -4,6 +4,6 @@ file size limit of 100MB. I then decided to reupload all the mods as
 I think is more fitting for binary files.
 
 This also means that the
-[update scripts](https://github.com/Fedora31/no-hats-bgum/blob/master/scripts/update-nohats.cmd)
+[update script](https://github.com/Fedora31/no-hats-bgum/blob/master/scripts/update-nohats.cmd)
 isn't working anymore.
 
