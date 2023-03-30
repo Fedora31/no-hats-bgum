@@ -1,3 +1,0 @@
-$modelname	"player/items/sniper/skull_horns_b.mdl"
-$include animation.qci
-$include sniper_hat.qci
