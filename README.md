@@ -1,4 +1,4 @@
-<p align="center"> 
+<p align="center">
     <img
         alt="nh-main"
         src=".github/images/nhm_main.png"
@@ -37,8 +37,8 @@ These versions don't have release numbers at the end, I'll simply replace them w
 
 - no\_hats\_bgum.vpk
   - This is the main mod of the pack, it prevents the game from loading cosmetics. It also makes the default headgear reappear, should it be removed by the cosmetic the player is wearing. (E.g. no more soldiers jumping around without helmet, safety first amarite?)
-  
-<p align="center"> 
+
+<p align="center">
   <img
         alt="nh-view"
         src="./.github/images/nhm_view.png"
@@ -55,7 +55,7 @@ You can get a **small** boost in performance with this mod, but it shouldn't be 
 In a nutshell:
 - If you are concerned about the game's artstyle, this mod is a good option.
 - If you are only concerned about performance and don't care about missing bodyparts, then something like [JarateKing's CleanTF2plus](https://github.com/JarateKing/CleanTF2plus) should be more fitting.
-  
+
 ## Secondary mods
 
 - no\_bugged\_misc.vpk
@@ -64,7 +64,7 @@ In a nutshell:
   - This mod is for people playing in the creators.tf servers. It removes the custom cosmetics the servers add. This mod is intended to be installed with the main mod.
   - You may be wondering why this mod exists since the creators.tf servers provide the command `/ctfhats` to disable custom hats. This is because this command makes the hats disappear, but does not replace them with the default headgear. So for now, this mod is still included in the pack.
 - no\_unusuals.vpk
-  - This file removes unusual particles but doesn't work on Valve servers (because of their sv_pure whitelist). I'm not the person maintaining this mod thus I will not update it if some unusuals are still appearing.
+  - This file removes unusual particles but doesn't work on Valve servers (because of their sv_pure whitelist). **If TF2 receives a new update which adds new particle effects, you should remove this mod and wait for a new version to come out.**
 - no\_christmas\_lights.vpk
   - Removes christmas lights from festivized weapons. Not to confuse with the limited **festive** weapons, not affected by this mod.
 - no\_skins.vpk
@@ -77,10 +77,10 @@ In a nutshell:
 
 ## Installation
 
-* On Windows, place any .vpk file into: 
+* On Windows, place any .vpk file into:
    `C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\custom`
 
-* On Linux, place any .vpk file into: 
+* On Linux, place any .vpk file into:
 `~/.local/share/Steam/steamapps/common/Team Fortress 2/tf/custom`
 
 If your game isn't in the default location, you can always go on the game's page in your Steam library. `click the settings icon > Manage > Browse local files`
@@ -92,7 +92,7 @@ If your game isn't in the default location, you can always go on the game's page
 
 ## Modify
 
-<p align="center"> 
+<p align="center">
   <img
         alt="nh-modify"
         src="./.github/images/nhm_modify.png"
@@ -114,7 +114,7 @@ If your game isn't in the default location, you can always go on the game's page
 
 * [jeebsAU's No Hats Mod](https://github.com/jeebsAU/No-Hats-Mod). The mod from which the version provided here is based on. **This version isn't maintained anymore.**
 
-<p align="center"> 
+<p align="center">
   <img
         alt="nh-commercial"
         src=".github/images/nhm_commercial.png"
