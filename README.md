@@ -23,16 +23,17 @@ This is a pack of mods whose purpose is to remove some visual aspects from Team 
 
 ## Navigation
 
+* [Download](https://github.com/Fedora31/no-hats-bgum/releases)
 * [Installation](#installation)
-  * [Update script (outdated)](./scripts)
-  * [Modify](#modify)
+* [Modify](#modify)
+* [Update script (outdated)](./scripts)
 * [Buglist](./.github/BUGLIST.md)
 * [Source](./nhm_source)
 * [Questions & Answers](./.github/Q%26A.md)
 * [Credits](./.github/CREDITS.md)
 
 
-## Primary mod- no\_hats\_bgum.vpk
+## Primary mod - no\_hats\_bgum.vpk
 
 This is the main mod of the pack, it prevents the game from loading cosmetics. It also makes the default headgear reappear, should it be removed by the cosmetic the player is wearing. (E.g. no more soldiers jumping around without helmet, safety first amarite?). It also works on Valve servers.
 
