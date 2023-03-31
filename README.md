@@ -60,10 +60,11 @@ In a nutshell:
 ## Secondary mods
 
 - no\_bugged\_misc.vpk
-  - Rarely, some pyro masks still appear in the main mod. This is due to a bug, the mod is unable to replace them with the default pyro head so they're simply not showing up. For visibility reasons (snipers) I let them appear by default but you can use this mod if you want to remove them completely (they will sometimes still appear due to the same bug). This mod is intended to be installed with the main mod.
+  - **The main mod lets some pyro masks appear** as the method to replace them with the default head is broken and doesn't work. For visibility reasons (snipers) they still appear by default, but you can use this mod to make them invisible instead (I myself prefer headless pyros to seeing a hat). Note that sometimes, they still appear anyway due to some kind of witchcraft. This mod is intended to be installed with the main mod.
 - no\_hats\_creatorstf.vpk
-  - This mod is for people playing in the creators.tf servers. It removes the custom cosmetics the servers add. This mod is intended to be installed with the main mod.
+  - This mod is for people playing on the creators.tf servers. It removes the custom cosmetics the servers add. I can't guarantee that this mod will stay up to date since I don't know how often new cosmetics will be released.
   - You may be wondering why this mod exists since the creators.tf servers provide the command `/ctfhats` to disable custom hats. This is because this command makes the hats disappear, but does not replace them with the default headgear. So for now, this mod is still included in the pack.
+  - (People from the future, know that when the creators.tf servers went down, this mod was a bit out of date. It doesn't cover every cosmetics they had.)
 - no\_unusuals.vpk
   - This file removes unusual particles but doesn't work on Valve servers (because of their sv_pure whitelist). **If TF2 receives a new update which adds new particle effects, you should remove this mod and wait for a new version to come out.**
 - no\_christmas\_lights.vpk
@@ -80,7 +81,7 @@ In a nutshell:
 ## Installation
 
 * On Windows, place any .vpk file into:
-   `C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\custom`
+`C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\custom`
 
 * On Linux, place any .vpk file into:
 `~/.local/share/Steam/steamapps/common/Team Fortress 2/tf/custom`
