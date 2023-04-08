@@ -11,13 +11,13 @@
 
 This is a pack of mods whose purpose is to remove some visual aspects from Team Fortress 2 (cosmetics, skins, unusuals, etc).
 
-> Note: apart from no_hats_bgum.vpk, all the mods are dormant. I will not add new mods or work on the existing ones. Occasional bug fixes may be released, but this is without any guarantees.
+> Note: apart from no\_hats\_bgum.vpk, all the mods are dormant. I will not add new mods or work on the existing ones. Occasional bug fixes may be released, but this is without any guarantees.
 
 ## Related repositories
 
 - [nhcustom2](https://github.com/Fedora31/nhcustom2), a command-line program whose purpose is to modify the no-hats-mod.
 - [nhupdater2](https://github.com/Fedora31/nhupdater2), shell scripts to help generating the files used by no-hats-bgum.vpk.
-- [nhschema](https://github.com/Fedora31/nhschema), a program that reads TF2's item schema and outputs data for nhupdater2.
+- [nhschema](https://github.com/Fedora31/nhschema), a program that reads TF2's item schema and outputs data for nhupdater2 and nhcustom2.
 
 > There exist multiple versions of the so-called `no-hats-mod`. The version provided here makes the default headgears reappear. If you want a version which only removes the hats, you can find an up-to-date version [here](https://www.teamfortress.tv/56398/no-hats-mod-headsfeet-2020-edition).
 
@@ -66,7 +66,7 @@ In a nutshell:
   - You may be wondering why this mod exists since the creators.tf servers provide the command `/ctfhats` to disable custom hats. This is because this command makes the hats disappear, but does not replace them with the default headgear. So for now, this mod is still included in the pack.
   - (People from the future, know that when the creators.tf servers went down, this mod was a bit out of date. It doesn't cover every cosmetics they had.)
 - no\_unusuals.vpk
-  - This file removes unusual particles but doesn't work on Valve servers (because of their sv_pure whitelist). **If TF2 receives a new update which adds new particle effects, you should remove this mod and wait for a new version to come out.**
+  - This file removes unusual particles but doesn't work on Valve servers (because of their sv\_pure whitelist). **If TF2 receives a new update which adds new particle effects, you should remove this mod and wait for a new version to come out.**
 - no\_christmas\_lights.vpk
   - Removes christmas lights from festivized weapons. Not to confuse with the limited **festive** weapons, not affected by this mod.
 - no\_skins.vpk
