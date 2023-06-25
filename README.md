@@ -71,7 +71,7 @@ In a nutshell:
   - Removes christmas lights from festivized weapons. Not to confuse with the limited **festive** weapons, not affected by this mod.
 - no\_skins.vpk
   - This file removes the majority of the weapon skins, with some exceptions. This mod doesn't work on Valve servers and **you need to move all of your skinned items at the end of your inventory**, otherwise your weapons will load indefinitely.
-  - This mod received an update that should properly hide skins that were previously showing in the older version. However, some of the weapons wearing those skins may have some issues like a weird reflectivity (Killer Bee) or an orange shine (Dragon Slayer). Other problems may exist.
+  - **If you downloaded this mod before June 25, 2023, you should redownload it now.** I noticed a rather big issue that made the FPS crash when trying (and failing) to load certain skins (on my end, 285 fps to 92 with stuttering). I've fixed the issue, but this means that some skins now are replaced by a black texture. See the BUGLIST to see which ones.
 - no\_botkiller.vpk
   - Removes robot heads from weapons.
 - no\_zombie\_skins.vpk
