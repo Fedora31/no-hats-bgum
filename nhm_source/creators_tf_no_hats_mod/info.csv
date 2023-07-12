@@ -1,0 +1,85 @@
+hat;class;equip;date;update;path
+Gravel Blooded Mercenary;engineer|pyro|scout;shirt;2019-12-26;Self-Made Smissmass;models/community/player/items/all_class/gravel_blooded_mercenaries/gravel_blooded_mercenaries_style_1_[CLASS].mdl
+Bigger Mann on Campus;heavy;Shirt;2019-12-26;Self-Made Smissmass;models/community/player/items/heavy/bigger_mann_on_campus/bigger_mann_on_campus.mdl
+Cadaver's Coat;medic;Shirt;2019-12-26;Self-Made Smissmass;models/community/player/items/medic/cadavers_coat/cadavers_coat.mdl
+Comet Costume;scout;Shirt;2019-12-26;Self-Made Smissmass;models/community/player/items/scout/comet_costume/comet_costume.mdl
+Undercover Usurper;scout;Whole head;2019-12-26;Self-Made Smissmass;models/community/player/items/scout/undercover_usurper/undercover_usurper.mdl
+Antifreeze Ulster;pyro;Shirt;2019-12-26;Self-Made Smissmass;models/community/player/items/pyro/antifreeze_ulster/antifreeze_ulster.mdl
+Present From Pyro;pyro;Head Replacement;2019-12-26;Self-Made Smissmass;models/community/player/items/pyro/present_from_pyro/present_from_pyro.mdl
+Seasoned Stetson;engineer;Hat;2019-12-26;Self-Made Smissmass;models/community/player/items/engineer/seasoned_stetson/seasoned_stetson.mdl
+Cold Sweater;medic;Shirt;2019-12-26;Self-Made Smissmass;models/community/player/items/medic/cold_sweater/cold_sweater.mdl
+Winter Western;engineer;Shirt;2019-12-26;Self-Made Smissmass;models/community/player/items/engineer/winter_western/winter_western.mdl
+Thrift Store Couture;spy;Shirt;2020-02-13;New Beginning Event;models/community/player/items/spy/thrift_store_couture/thrift_store_couture.mdl
+Eiffel Towering Pillar of Berets;spy;Hat;2020-02-13;New Beginning Event;models/community/player/items/spy/eiffel_towering_pillar_of_berets/eiffel_towering_pillar_of_berets.mdl
+Pocket Pork;engineer;Pocket;2020-02-13;New Beginning Event;models/community/player/items/engineer/pocket_pork/pocket_pork.mdl
+Flame Kindler;pyro;Backpack;2020-02-13;New Beginning Event;models/community/player/items/pyro/flame_kindler/flame_kindler.mdl
+Wok Helmet;pyro;Hat;2020-02-13;New Beginning Event;models/community/player/items/pyro/wok_helmet/wok_helmet.mdl
+Usual;All classes;Hat;2020-02-13;New Beginning Event;models/community/player/items/all_class/usual_locked_style/usual_locked_style_[CLASS].mdl
+Tiny Supplier;engineer;Left Shoulder;New Beginning Event;2020-02-13;models/community/player/items/engineer/tiny_supplier/tiny_supplier.mdl
+Crazy Noisy Bizarre Pomp;scout;Hat;2020-02-13;New Beginning Event;models/community/player/items/scout/crazy_noisy_bizarre_pomp/crazy_noisy_bizarre_pomp.mdl
+Der Friedensarbeiter;medic;Shirt;2020-02-13;New Beginning Event;models/community/player/items/medic/der_friedensarbeiter/der_friedensarbeiter.mdl
+Shady Business;heavy;Hat;2020-02-13;New Beginning Event;models/community/player/items/heavy/shady_business_uptown_style/shady_business_uptown_style.mdl
+Free Mane;engineer;Whole head;2020-05-22;Hazardous Environments;models/community/player/items/engineer/hightech_haircut/hightech_haircut.mdl
+Hardhat Hazmat;engineer;Shirt|Pants;2020-05-22;Hazardous Environments;models/community/player/items/engineer/safe_scientist/safe_scientist.mdl
+Specialist;medic;Glasses;2020-05-22;Hazardous Environments;models/community/player/items/medic/scientist_head_3/scientist_head_3.mdl
+Ridiculous Tie;medic;Shirt;2020-05-22;Hazardous Environments;models/community/player/items/medic/ridiculous_tie/ridiculous_tie.mdl
+Family Doctor;medic;Pants;2020-05-22;Hazardous Environments;models/community/player/items/medic/family_doctor/family_doctor.mdl
+Benefactor's Bowl;pyro;Head Replacement;2020-05-22;Hazardous Environments;models/community/player/items/pyro/benefactors_bowl/benefactors_bowl.mdl
+Tainted Tome;All classes;None;2020-10-23;A Gruesomely Overflowing Halloween Special;models/community/player/items/all_class/tainted_tome/tainted_tome_gravel.mdl|models/community/player/items/all_class/tainted_tome/tainted_tome_bronze.mdl|models/community/player/items/all_class/tainted_tome/tainted_tome_silver.mdl|models/community/player/items/all_class/tainted_tome/tainted_tome_gold.mdl
+Carry-on Kitty;All classes;Belt;;;models/community/player/items/all_class/carryon_kitty/carryon_kitty_[CLASS].mdl
+About Time;sniper;Arm Tattoos;2020-07-24;Classful Event;models/community/player/items/sniper/about_time/about_time.mdl
+Buckshot Bandolier;heavy;Bullets;2020-07-24;Classful Event;models/community/player/items/heavy/jul13_bagdolier/jul13_bagdolier.mdl
+Sight of Sound;soldier;Glasses;2020-07-24;Classful Event;models/community/player/items/soldier/sight_of_sound/sight_of_sound.mdl
+Beater Cop;heavy;Shirt;2020-07-24;Classful Event;models/community/player/items/heavy/beater_cop/beater_cop.mdl
+Comrade Communicator;heavy;Hip;2020-07-24;Classful Event;models/community/player/items/heavy/comrade_communicator/comrade_communicator.mdl
+Dutiful Do;heavy;Beard|Hat;2020-07-24;Classful Event;models/community/player/items/heavy/dutiful_do/dutiful_do.mdl
+Charlatan's Cordobés;All classes;Hat;2020-07-24;Classful Event;models/community/player/items/all_class/charlatans_cordobs/charlatans_cordobs_[CLASS].mdl
+Dancer's Dress;sniper|spy;Shirt;2020-07-24;Classful Event;models/community/player/items/all_class/dancers_dress/dancers_dress_[CLASS].mdl
+Stealthy Spaniard;sniper|spy;Pants;2020-07-24;Classful Event;models/community/player/items/all_class/stealthy_spaniard/stealthy_spaniard_[CLASS].mdl
+Prime Minister;demo;Hat;2020-07-24;Classful Event;models/community/player/items/demo/the_prime_minister/the_prime_minister.mdl
+Veteran's Vail;sniper;Hat;2020-07-24;Classful Event;models/community/player/items/sniper/veterans_vail/veterans_vail.mdl
+Peak Precision Parka;sniper;Shirt;2020-07-24;Classful Event;models/community/player/items/sniper/peak_precision_parka/peak_precision_parka.mdl
+Lil Garbage Gaurdians;soldier;Pocket;2020-07-24;Classful Event;models/community/player/items/soldier/lil_garbage_gaurdians/lil_garbage_gaurdians.mdl
+Dust-Bowler;All classes;Hat;2020-07-24;Classful Event;models/community/player/items/all_class/dustbowler_style_1_v2/dustbowler_style_1_[CLASS].mdl
+Googly Aye;demo;Glasses;2020-07-24;Classful Event;models/community/player/items/demo/googly_aye/googly_aye.mdl
+Cyber Cowl;spy;Head Skin|Shirt|Hat;2020-07-24;Classful Event;models/community/player/items/spy/cyber_cowl/cyber_cowl.mdl
+Deathadder;spy;Face;2020-07-24;Classful Event;models/community/player/items/spy/deathadder/deathadder.mdl
+Foxhound;soldier;Hat;2020-07-24;Classful Event;models/community/player/items/soldier/foxhound_style/foxhound_style.mdl
+Explosive Vacation;demo;Arms;2020-07-24;Classful Event;models/community/player/items/demo/explosive_vacation/explosive_vacation.mdl
+Survivor's Kit;All classes;Belt;2020-08-29;Back to Fight Event;models/community/player/items/all_class/survivors_kit/survivors_kit_[CLASS].mdl
+Madame Hootsabunch;All classes;Left Shoulder;2020-08-29;Back to Fight Event;models/community/player/items/all_class/madame_hootsabunch/madame_hootsabunch_[CLASS].mdl
+Hippocratic Growth;medic;Beard;;;models/community/player/items/medic/hippocratic_growth/hippocratic_growth.mdl
+Pyrovision Visors;All classes;Glasses;2020-08-29;Back to Fight Event;models/community/player/items/all_class/pyrovision_visors/pyrovision_visors_[CLASS].mdl
+Crusty Crasher;All classes;Hat;2020-08-29;Back to Fight Event;models/community/player/items/all_class/2019_crusty_crasher/2019_crusty_crasher_[CLASS].mdl
+Boston Bling;scout;Shirt;2020-08-29;Back to Fight Event;models/community/player/items/scout/boston_bling/boston_bling.mdl
+Lucky Laces;scout;Feet;2020-08-29;Back to Fight Event;models/community/player/items/scout/lucky_laces/lucky_laces.mdl
+Badlands Sunblock;sniper;Whole head;2020-08-29;Back to Fight Event;models/community/player/items/sniper/badlands_sunblock/badlands_sunblock.mdl
+Lanai Lounger;pyro;Shirt;2020-08-29;Back to Fight Event;models/community/player/items/pyro/lanai_lounger/lanai_lounger.mdl
+Hot Tropic;pyro;Hat;2020-08-29;Back to Fight Event;models/community/player/items/pyro/hot_tropic/hot_tropic.mdl
+Woodland Wear;engineer;Shirt;2020-08-29;Back to Fight Event;models/community/player/items/engineer/woodland_wear/woodland_wear.mdl
+Bombinomicrown;demo;Hat;2020-10-23;A Gruesomely Overflowing Halloween Special;models/community/player/items/demo/bombinomicon_hat/bombinomicon_hat.mdl
+Pardner's Paws;engineer;Feet;2020-10-23;A Gruesomely Overflowing Halloween Special;models/community/player/items/engineer/pardners_paws/pardners_paws.mdl
+Combustible Cranium;pyro;Head Replacement;2020-10-23;A Gruesomely Overflowing Halloween Special;models/community/player/items/pyro/combustible_cranium/combustible_cranium.mdl
+Invisible Igniter;pyro;Head Replacement;2020-10-23;A Gruesomely Overflowing Halloween Special;models/community/player/items/pyro/invisible_igniter/invisible_igniter.mdl
+Stitched Smile;pyro;Head Replacement;2020-10-23;A Gruesomely Overflowing Halloween Special;models/community/player/items/pyro/stitched_smile/stitched_smile.mdl
+Batter's Beak;scout;Whole head;2020-10-23;A Gruesomely Overflowing Halloween Special;models/community/player/items/scout/batters_beak/batters_beak.mdl
+Dugout Scratchers;scout;Feet|Pants;2020-10-23;A Gruesomely Overflowing Halloween Special;models/community/player/items/scout/dugout_scratchers/dugout_scratchers.mdl
+Fielder's Feathers;scout;Arms;2020-10-23;A Gruesomely Overflowing Halloween Special;models/community/player/items/scout/fielders_feathers/fielders_feathers.mdl
+Ye Spoiled Breaded Cap;All classes;Hat;2020-10-23;A Gruesomely Overflowing Halloween Special;models/community/player/items/all_class/2020_breadcap/2020_breadcap_[CLASS].mdl
+Amphibeanie;All classes;Hat;2020-10-23;A Gruesomely Overflowing Halloween Special;models/community/player/items/all_class/amphibeanie/amphibeanie_[CLASS].mdl
+Spectral Specs;All classes;Glasses;2020-10-23;A Gruesomely Overflowing Halloween Special;models/community/player/items/all_class/spectral_specs/spectral_specs_[CLASS].mdl
+Uncanny Undertaker;All classes;Hat;2020-10-23;A Gruesomely Overflowing Halloween Special;models/community/player/items/all_class/uncanny_undertaker/uncanny_undertaker_[CLASS].mdl
+Coxswain Coat;heavy;Shirt;2020-10-23;A Gruesomely Overflowing Halloween Special;models/community/player/items/heavy/coxswain_coat/coxswain_coat.mdl
+Gallon o' Grog;heavy;Back;2020-10-23;A Gruesomely Overflowing Halloween Special;models/community/player/items/heavy/gallon_o_grog/gallon_o_grog.mdl
+Keelhaul Kapitan;heavy;Hat|Beard;2020-10-23;A Gruesomely Overflowing Halloween Special;models/community/player/items/heavy/keelhaul_kapitan/keelhaul_kapitan.mdl
+Bubonic Bedizen;medic;Shirt;2020-10-23;A Gruesomely Overflowing Halloween Special;models/community/player/items/medic/bubonic_bedizen_no_hood/bubonic_bedizen_no_hood.mdl
+Grave Digger's Goatee;medic;Beard;2020-10-23;A Gruesomely Overflowing Halloween Special;models/community/player/items/medic/grave_diggers_goatee/grave_diggers_goatee.mdl
+Pestilent Profession;medic;Hat;2020-10-23;A Gruesomely Overflowing Halloween Special;models/community/player/items/medic/pestilent_profession/pestilent_profession.mdl
+Brave Boots;scout;Feet|Arms;2020-10-23;A Gruesomely Overflowing Halloween Special;models/community/player/items/scout/brave_boots/brave_boots.mdl
+Henshin Helmet;scout;Whole head;2020-10-23;A Gruesomely Overflowing Halloween Special;models/community/player/items/scout/henshin_helmet/henshin_helmet.mdl
+Savior's Suit;scout;Shirt;2020-10-23;A Gruesomely Overflowing Halloween Special;models/community/player/items/scout/saviors_suit/saviors_suit.mdl
+Co-Leader Cap;sniper;Hat;2020-10-23;A Gruesomely Overflowing Halloween Special;models/community/player/items/sniper/coleader_cap_style1/coleader_cap_style1.mdl
+Outbreak Outerwear;sniper;Shirt;2020-10-23;A Gruesomely Overflowing Halloween Special;models/community/player/items/sniper/outbreak_outerwear/outbreak_outerwear.mdl
+Blood-Soaked Brim;spy;Hat;2020-10-23;A Gruesomely Overflowing Halloween Special;models/community/player/items/spy/bloodsoaked_brim_paintable_band/bloodsoaked_brim_paintable_band.mdl
+Nightwalker's Necktie;spy;Arms;2020-10-23;A Gruesomely Overflowing Halloween Special;models/community/player/items/spy/nightwalkers_necktie/nightwalkers_necktie.mdl
+Vampire's Vestments;spy;Shirt;2020-10-23;A Gruesomely Overflowing Halloween Special;models/community/player/items/spy/vampires_vestments/vampires_vestments.mdl
