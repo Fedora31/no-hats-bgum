@@ -76,6 +76,8 @@ In a nutshell:
   - Removes robot heads from weapons.
 - no\_zombie\_skins.vpk
   - Replaces Voodoo-cursed Souls skins with the default player model. This mod doesn't work on Valve servers. It was contributed by gabrielwoj.
+- no\_action\_items.vpk
+  - Removes action items (powerup canteens, spellbooks).
 
 
 ## Installation
