@@ -1,3 +1,5 @@
+## This project was moved to <https://pevhs.ch/tf2>. The GitHub repository will no longer be updated.
+
 <p align="center">
     <img
         alt="nh-main"
